@@ -1,0 +1,2 @@
+- A router is a networking device that forwards data packets between computer networks. It performs the traffic directing functions on the Internet. 
+- A router is connected to two or more data lines from different networks. When a data packet comes in one of the lines, the router reads the network address information in the packet header to determine the ultimate destination. Then, using its routing table or routing policy, it directs the packet to the next network on its journey.

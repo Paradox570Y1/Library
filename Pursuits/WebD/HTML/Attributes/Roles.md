@@ -1,0 +1,4 @@
+- **`href`**: Links to another page or resource.
+- **`src`**: Specifies the source URL for embedded content (images, audio, etc.).
+- **`alt`**: Provides a text description for an image if it can't be displayed or for accessibility purposes.
+- **`title`**: Displays a tooltip with additional information when hovering over an element.

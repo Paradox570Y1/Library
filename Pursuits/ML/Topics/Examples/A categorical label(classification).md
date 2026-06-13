@@ -1,0 +1,3 @@
+- It has a discrete set of possible values. 
+- In a machine learning problem in which you want to identify the type of flower based on a picture, you would train your model using images that have been labeled with the categories of the flower that you want to identify. 
+- Furthermore, when you work with categorical labels, you often carry out classification tasks, which are part of the supervised learning family.

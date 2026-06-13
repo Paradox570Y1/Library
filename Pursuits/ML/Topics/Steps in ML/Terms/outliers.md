@@ -1,0 +1,2 @@
+- In machine learning (ML), an outlier refers to a data point that significantly deviates from the other observations in the dataset. 
+- Outliers can arise due to variability in the data, measurement errors, or other anomalies.

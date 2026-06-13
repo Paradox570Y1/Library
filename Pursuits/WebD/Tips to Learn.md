@@ -1,0 +1,4 @@
+- Instead of watching video and side by side trying things , Just watch full 10 minutes video and then try to replicate the whole thing by yourself.
+- If you are stuck at some part or is difficult then bookmark that part of video so that you can come back to.
+- Use google or sites like stack overflow for queries.
+- You can also use Q&A section for your doubts.

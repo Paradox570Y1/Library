@@ -1,0 +1,6 @@
+![[Pasted image 20240702090818.png|500]]
+- [[Define the Problem|Step 1]]
+- [[Build the Dataset|Step 2]]
+- [[Train the Model|Step 3]]
+- [[Evaluate the Model|Step 4]]
+- [[Use Model|Step 5]]

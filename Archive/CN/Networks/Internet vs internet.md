@@ -1,0 +1,2 @@
+- An internet (note the lowercase i) is two or more networks that can communicate with each other. 
+- The most notable internet is called the Internet (uppercase I ), and is composed of thousands of interconnected networks.

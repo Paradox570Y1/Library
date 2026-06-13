@@ -1,0 +1,114 @@
+- Blocking vs Non Blocking Mode
+- Defer, async
+- template literal
+- Mapping in JS
+	- `productList.map(func)`
+- Set in JS
+	- entries property
+- Sources tab
+- Inbuilt debugger
+- Web Vitals
+- Throttling
+- Browser features
+	- Debugging tools
+	- Browser Web API
+		- Save Data API
+		- Set Timeout API
+		- Application Tab
+- JWT, cookie
+- web storage like localStorage
+- Index DB
+- Event Loop
+	- Micro Task
+	- Macro Task
+	- Libuv Library
+- var, let, const
+- Hoisting
+- Function expression
+- Global scope vs function scope
+- In browser console
+	- REPL-like environment
+
+- Primitive & Non primitive data types in JS
+- Generator Functions
+- Prototypical Inheritance
+- Create Objects using
+	- Object Literal
+	- Function
+	- Constructor function
+- Operators
+	- Spread Operator
+	- `instanceof operator`
+	- `nullish coalescing operator`
+	- `optional chaining operator`
+	- conditional ternary operator
+- Classes in JS
+	- constructor keyword
+	- Private scope in JS
+	- static keyword
+- Destructor in JS
+	- in array
+	- in object
+- Method Chaining
+- Arrow functions
+- Promises
+	- Resolve, Reject
+	- functions `.then`, `.catch`
+- HTTP Client-Server
+- HTTP Parameters
+	- Version
+	- URI
+	- Character Sets
+	- Date/Time
+	- HTTP request
+	- HTTP response
+- HTTP status codes
+- AJAX and XML
+	- `XMLHttpRequest`
+
+#React
+
+- Concept of states
+- DOM vs ReactDOM
+- Library or framework
+	- ReactJS is Library
+	- `react.development.js`
+- JSX
+- Transpiler
+	- Babel
+	- `babel.min.js`
+- Modules
+- Components
+	- Functional
+	- Class
+- Props
+- React Fragment
+- `useState()`
+- `useEffect()`
+- `useRef()`
+- State management
+	- Redux
+
+#Next
+- File based routing
+- `webpack-hmr`
+- prefetching
+- RSE-Payload
+- Hydration while rendering
+- Client side and server side component
+- Directive
+- Default export vs named export
+- Conditional Rendering
+- Server Side rendering
+	- Pre rendering on server
+
+#Database
+- JSON DB
+- MongoDB
+	- BSON format
+- Data sanitization libraries
+- fetch API , cors
+- Mongoose library
+
+- Authentication vs Authorization
+- JWT Token and SECRET KEY

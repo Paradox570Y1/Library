@@ -1,0 +1,2 @@
+- CN , DS subjective bhi hai bhai dhyaan se
+- FEE ke projects best class bnana , saare marks projects ke hai.

@@ -1,0 +1,27 @@
+- Whenever you create a new VM using Ubuntu OS then always run`apt update` command which tells your system to download the latest list of available packages and their versions from the configured repositories.
+- Without it, your system will use an **outdated list**, which might prevent you from installing newer or even available packages.
+- Then install node using `sudo apt install nodejs`
+- To change `nodejs` version to `LTS`:
+	- Install `nvm` : `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
+	- Restart the terminal or just run `export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"`
+- Use `gitignore` to prevent `node_modules` from pushing over cloud.
+- To install dependencies go run `npm install`at location where `package-lock.json` is accessible.
+- Clone the project from `github` to the git bash terminal which is connected to EC2 through SSH.
+	- If there is issue in cloning
+	![[Pasted image 20250730120910.png]]
+	- In above case run `sudo apt update` then try cloning
+- To run server on registered port no. like 80 use `sudo` before running the server
+	- To run in background use ampersand at the end `node server.js &`
+	- To see background running process at particular port use `lsof -i:8080` where 8080 is port no.
+	- In case of registered no. use `sudo node server.js&` and to see `sudo lsof -i:8080`.
+	- To kill use `sudo kill -9 PID`![[Pasted image 20250730123240.png]]
+- Now lets setup inbound rules to accept traffic from anywhere for port number `8080`.
+	- Select VM and go to security![[Pasted image 20250730122724.png]]
+	- Now click on security groups link and select edit inbound rules.
+	- Now add new rule to accept traffic from anywhere for port 8080 (example)![[Pasted image 20250730123017.png]]
+	- Now you can access the website from any device.
+	- In DNS when you add a new ip address then it has to hit one time on server after that their are caching mechanisms which provides faster access for a period of time. That's why it's faster to visit second time.
+	- Now try running website by adding port no. at the end of public DNS![[Pasted image 20250730124612.png]]
+- Now We should make a process manager which tells about the functioning of website like take logs , tells if memory if over using , cpu usage is high , sends mail accordingly.
+	- There are tools to accomplish that.

@@ -1,0 +1,14 @@
+- Tech Stack HTML, CSS, JS.
+- Usage of external libraries is not allowed
+- Project should include all the features covered in the class as part of HTML, CSS, JS.
+- Application should be responsive for mobile, tablet and desktop view.
+- Application should have at least 2 pages.
+- For data storage use Web storage, cookie, indexed DB
+- Project should have CRUD operations.
+	- All 4 CRUD operations at every feature.
+- Code should be uploaded to GitHub repository, with at least 5 commits.
+- Project details updated in README.md and needs to be written in Markdown language.
+- No external API should be used.
+- Don't put efforts on making your project fancy but it should have all above functionalities covered.
+- All basic functionality should be honed to perfection.
+- Code quality, readability and commenting should be done.

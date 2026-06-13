@@ -1,0 +1,3 @@
+- In web development, "Sass" stands for "Syntactically Awesome Stylesheets." 
+- It's a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). 
+- SassScript is the scripting language itself. Sass makes writing CSS easier and more efficient by providing features like variables, nested rules, mixins, and functions, which are not available in plain CSS.

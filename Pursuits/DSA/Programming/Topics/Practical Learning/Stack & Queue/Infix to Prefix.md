@@ -1,0 +1,7 @@
+- Question not found.
+- Approach is similar to that of Infix to Postfix.
+- Few differences are as follows:
+	- We will start from end.
+	- Instead of open bracket we will put close bracket directly.
+	- Now open bracket will be used to pop all characters till close.
+	- At the end we will reverse the result again.

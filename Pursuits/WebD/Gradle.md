@@ -1,0 +1,6 @@
+- It is advanced tool and under the hood make use of maven
+- It is light weight and builds faster
+- It uses XML layout.
+- The file you touch it makes jar for that file only , hence it is faster.
+- It has a watcher on your workspace.
+- Maven always picks all files make complete build again that's why gradle is made.

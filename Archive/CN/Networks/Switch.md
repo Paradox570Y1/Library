@@ -1,0 +1,2 @@
+- In computer networks, a **switch** is a networking device that connects multiple devices within a local area network (LAN) and uses packet switching to forward data to the destination device.
+- Switches operate at the `data link layer` (Layer 2) of the OSI model, but some switches also operate at the `network layer` (Layer 3), making them capable of routing as well.

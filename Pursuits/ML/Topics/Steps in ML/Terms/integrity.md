@@ -1,0 +1,3 @@
+- Data integrity refers to the accuracy, consistency, and reliability of data throughout its lifecycle. 
+- In simpler terms, it means ensuring that data is correct, unchanged, and trustworthy from the moment it is created or collected until it is no longer needed. 
+- This involves protecting data from being altered or corrupted, whether by accident or intentionally, and ensuring it remains usable and accurate for its intended purpose.

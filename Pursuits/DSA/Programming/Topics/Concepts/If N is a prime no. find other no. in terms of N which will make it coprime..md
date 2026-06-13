@@ -1,0 +1,4 @@
+- Two consecutive no. are always coprime. So , ans is N-1.
+- Two no. are coprime if their gcd is 1.
+- N and (N-1)  Ex: 5 and 6 
+- __Common Factors between two numbers can't be greater than the difference between two numbers.__

@@ -1,0 +1,6 @@
+- `String[] S = read.readLine().split(" ");`
+    - Reads a line of text, splits it by spaces into an array of strings, and stores it in variable `S`.
+- `Long A = Long.parseLong(S[0]);`
+    - Parses the first element of the array `S` as a `Long` and stores it in variable `A`.
+- `Long B = Long.parseLong(S[1]);`
+    - Parses the second element of the array `S` as a `Long` and stores it in variable `B`.

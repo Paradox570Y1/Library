@@ -1,0 +1,17 @@
+- In a mesh topology, every device has a dedicated point-to-point link to every other device. The term dedicated means that the link carries traffic only between the two devices it connects. 
+- To find the number of physical links in a fully connected mesh net work with n nodes, we first consider that each node must be connected to every other node. Node 1 must be connected to n – 1 nodes, node 2 must be connected to n – 1 nodes, and finally node n must be connected to n – 1 nodes. We need n (n – 1) physical links. However, if each physical link allows communication in both directions (duplex mode), we can divide the number of links by 2. In other words, we can say that in a mesh topology, we need `n (n – 1) / 2` duplex-mode links. 
+          ![[Pasted image 20240630130944.png|350]]
+- To accommodate that many links, every device on the network must have `n – 1 input/output (I/O) ports` (see Figure 1.4) to be connected to the other n – 1 stations.
+- Advantages
+     - It offers several advantages over other network topologies. 
+    - First, the use of dedicated links guarantees that each connection can carry its own data load, thus eliminating the traffic problems that can occur when links must be shared by multiple devices.
+    - Second, a mesh topology is robust. If one link becomes unusable, it does not incapacitate the entire system.
+    - Third, there is the advantage of privacy or security. When every message travels along a dedicated line, only the intended recipient sees it. Physical boundaries prevent other users from gaining access to messages.
+    - Finally, point-to-point links make fault identification and fault isolation easy. Traffic can be routed to avoid links with suspected problems. This facility enables the network manager to discover the precise location of the fault and aids in finding its cause and solution.
+- Disadvantages
+    - The main disadvantages of a mesh are related to the amount of cabling and the number of I/O ports required.
+    - First, because every device must be connected to every other device, installation and reconnection are difficult.
+    - Second, the sheer bulk of the wiring can be greater than the available space (in walls, ceilings, or floors) can accommodate.
+    - Finally, the hardware required to connect each link (I/O ports and cable) can be prohibitively expensive.
+    - For these reasons a mesh topology is usually implemented in a limited fashion, for example, as a `backbone connecting the main computers` of a hybrid network that can include several other topologies.
+    - One practical example of a mesh topology is the connection of telephone regional offices in which each regional office needs to be connected to every other regional office.

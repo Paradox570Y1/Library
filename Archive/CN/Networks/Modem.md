@@ -1,0 +1,2 @@
+- In computer networks, a modem (short for modulator-demodulator) is a device that enables digital data communication over various types of physical transmission media by converting digital data into an analog signal and vice versa. 
+- It serves as an intermediary between a digital device (such as a computer, router, or network switch) and an analog medium (such as telephone lines, cable systems, or wireless signals).

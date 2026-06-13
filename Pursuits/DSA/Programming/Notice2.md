@@ -1,0 +1,2 @@
+- During traversing make sure to include the boundary conditions for the iterator.
+	- Try to check these conditions in extreme cases and improvise.

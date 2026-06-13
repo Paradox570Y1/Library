@@ -1,0 +1,7 @@
+- [[Extracting Digits]]
+- [[Counting no. of Digits]]
+- [[GCD Or HCF]]
+- [[Reversing an array with Recursion]]
+- [[Checking if no. is 2ⁿ]]
+- [[Minimizing the maximum product of number in array.]]
+- [[If N is a prime no. find other no. in terms of N which will make it coprime.]]

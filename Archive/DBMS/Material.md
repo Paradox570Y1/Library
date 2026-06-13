@@ -1,0 +1,4 @@
+- [Book: Database System Concepts](https://www.db-book.com/))
+     - [index](obsidian://open?vault=Lessons&file=Database%20System%20Concepts%2FIndex.pdf)
+     - [Introduction](obsidian://open?vault=Lessons&file=Database%20System%20Concepts%2Fch1.pdf)
+     - 

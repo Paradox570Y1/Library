@@ -1,0 +1,8 @@
+- accesskey
+- autofocus
+- dir
+- draggable
+- hidden
+- id
+- style
+- title

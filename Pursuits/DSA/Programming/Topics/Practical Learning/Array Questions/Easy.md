@@ -1,0 +1,10 @@
+- [[1752. Check if Array Is Sorted and Rotated]] next greater or not in cycle for increasing order
+- [[26. Remove Duplicates from Sorted Array]] insert later to next of cur if different
+- [[189. Rotate Array]] Bring the farthest closer at the provided point
+- [[283. Move Zeroes]] swap later to first zero if later not zero
+- [[Union of Two Sorted Arrays]] if no duplicates then one can use set else always add smaller element to dynamic array
+- [[Intersection of Sorted Arrays]] increase smaller value pointer and in case same then add to answer and increase both pointer
+- [[1991. Find the Middle Index in Array]] either measure including ith index from both side or begin with initial state where left sum is 0 and right sum is sum of all elements and simulate.
+- [[Find the missing number in an array]] can use set or hash but to save space use summation or xor
+- [[Find the number that appears once, and the other numbers twice]] Just xor or hash or map
+- [[Longest Subarray with given Sum K(Positives)]] in case of +ve and 0 you can do basic sliding window where you remove only if sum is greater but in case of -ve as well use hashmap while traversing where you add the total till index i and in case you don't want a condition to check current sum from 0 to i,  just include 0 value with -1 index while initializing hashmap.

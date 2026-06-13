@@ -1,0 +1,2 @@
+- A subsequence can be contiguous or non-contiguous.
+- But it should follow the order. As on contrary subset might or might not follow the order but subsequence must follow.

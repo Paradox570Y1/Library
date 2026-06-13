@@ -1,0 +1,9 @@
+- The term physical topology refers to the way in which a network is laid out physically. 
+- Two or more devices connect to a link; two or more links form a topology. 
+- The topology of a network is the geometric representation of the relationship of all the links and linking devices (usually called nodes) to one another. 
+- There are four basic topologies possible: 
+    - __[[Mesh Topology]]__
+    - __[[Star Topology]]__
+    - __[[Bus Topology]]__
+    - __[[Ring Topology]]__
+    - __[[Tree Topology]]__

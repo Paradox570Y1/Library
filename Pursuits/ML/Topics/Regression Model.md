@@ -1,0 +1,1 @@
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. The simplest form is simple linear regression, which models the relationship between two variables using a straight line.

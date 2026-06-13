@@ -1,0 +1,18 @@
+Information today comes in different forms such as text, numbers, images, audio, and video:
+- __Text__
+     - In data communications, text is represented as a bit pattern, a sequence of bits (0s or 1s). Different sets of bit patterns have been designed to represent text symbols. Each set is called a code, and the process of representing symbols is called coding.
+     - Today, the prevalent coding system is called `Unicode`, which uses 32 bits to represent a symbol or character used in any language in the world.
+     - `The American Standard Code for Information Interchange (ASCII)`, developed some decades ago in the United States, now constitutes the first 127 characters in Unicode and is also referred to as Basic Latin. Appendix A includes part of the Unicode.
+- __Numbers__
+     - Numbers are also represented by bit patterns.
+     - However, a code such as ASCII is not used to represent numbers; the number is directly converted to a binary number to simplify mathematical operations.
+     - Appendix B discusses several different numbering systems.
+- __Images__
+     - Images are also represented by bit patterns. In its simplest form, an image is composed of a matrix of pixels (picture elements), where each pixel is a small dot.
+     - The size of the pixel depends on the resolution. For example, an image can be divided into 1000 pixels or 10,000 pixels. In the second case, there is a better representation of the image (better resolution), but more memory is needed to store the image.
+     - After an image is divided into pixels, each pixel is assigned a bit pattern. The size and the value of the pattern depend on the image. For an image made of only black and-white dots (e.g., a chessboard), a 1-bit pattern is enough to represent a pixel.
+     - There are several methods to represent color images. One method is called `RGB`, so called because each color is made of a combination of three primary colors: red, green, and blue. The intensity of each color is measured, and a bit pattern is assigned to it. Another method is called `YCM`, in which a color is made of a combination of three other primary colors: yellow, cyan, and magenta.
+- __Audio__
+     - Audio refers to the recording or broadcasting of sound or music. Audio is by nature different from text, numbers, or images. It is continuous, not discrete. Even when we use a microphone to change voice or music to an electric signal, we create a continuous signal.
+- Video
+     - Video refers to the recording or broadcasting of a picture or movie. Video can either be produced as a continuous entity (e.g., by a TV camera), or it can be a combination of images, each a discrete entity, arranged to convey the idea of motion.

@@ -1,0 +1,6 @@
+- [[3021. Alice and Bob Playing Flower Game]]
+- [[1518. Water Bottles]]
+- [[3100. Water Bottles II]]
+- [[2048. Next Greater Numerically Balanced Number]]
+- [[1716. Calculate Money in Leetcode Bank]]
+- [[3623. Count Number of Trapezoids I]]

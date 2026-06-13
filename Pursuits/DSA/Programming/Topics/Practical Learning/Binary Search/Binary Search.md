@@ -1,0 +1,42 @@
+- [[BS Theory]]
+- [[Lower Bound]] (smallest element that is >= x)
+- [[Upper bound]] (smallest element that is > x)
+- [[Floor in a Sorted Array]] (largest element that is <= x)
+- [[Ceil The Floor(unsorted array)]] (ceil: smallest element that is >= x)
+- [[Search Insert Position]] (same as ceil or lowerbound)
+- [[Floor and Ceil(sorted array)]]
+- [[Find the first or last occurrence of a given number in a sorted array]]
+- [[Find no of occurrence in sorted array]]
+- [[Search in Rotated Sorted Array I]]
+- [[Search in Rotated Sorted Array II]]
+- [[Find minimum in Rotated Sorted Array]]
+- [[Find out how many times has an array been rotated]]
+- [[Single element in a Sorted Array]]
+- [[Find peak element]]
+- [[Multiply a num f times]]
+# Part 2
+- [[Find square root of a number in log n]]
+- [[Find the Nth root of a number using binary search]]
+- [[Koko Eating Bananas]]
+- [[Minimum days to make M bouquets]]
+- [[Find the smallest Divisor]]
+- [[Capacity to Ship Packages within D Days]]
+- [[Kth Missing Positive Number]] \*(Easy but good question)
+- [[Aggressive Cows]]
+- [[Book Allocation]]
+- [[Split Array Largest Sum]]
+- [[Painter's partition]]
+- [[Minimize Max Distance to Gas Station]]
+- [[Median of 2 sorted arrays]]
+- [[K-th element of two Arrays]]
+
+
+# Part 3
+- [[Find the row with maximum number of 1's]]
+- [[Search in a 2 D matrix]]
+- [[Search in a row and column wise sorted matrix]]
+- [[Find Peak Element (2D Matrix)]]
+- [[Matrix Median]]
+- [[2528. Maximize the Minimum Powered City]]
+- [[2141. Maximum Running Time of N Computers]]
+- [[2300. Successful Pairs of Spells and Potions]]

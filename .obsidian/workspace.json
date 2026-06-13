@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "c5ea5da573411892",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd6f4c39ad44b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb5179d82050dc1a",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaba048d445f5d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "2070d69546423ea5",
+        "type": "tabs",
+        "dimension": 68.94409937888199,
+        "children": [
+          {
+            "id": "3ab17cfc44f5f7ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5859fa678462455",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "longest subarray",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdd95f90f441da9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9874b255f6e1ca00",
+        "type": "tabs",
+        "dimension": 31.05590062111801,
+        "children": [
+          {
+            "id": "717f47726aef7fd8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "76b97e6610280919",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b219f26d7f9d293",
+        "type": "tabs",
+        "dimension": 67.94871794871796,
+        "children": [
+          {
+            "id": "72dcb9635cca228a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Programming.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Programming"
+            }
+          },
+          {
+            "id": "71274e83025bf760",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DSA/Programming.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6783493750731103,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Programming"
+            }
+          },
+          {
+            "id": "5805dff5a1e36c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Programming"
+            }
+          },
+          {
+            "id": "418ebf7b88890ecd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/Programming/Topics/Practical Learning/DP/1092. Shortest Common Supersequence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1092. Shortest Common Supersequence"
+            }
+          },
+          {
+            "id": "2311bbbd11e49449",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc44314d6e13c64a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7473993419863502,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3bb2879f73cad394",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "3112cdb157498ece",
+        "type": "tabs",
+        "dimension": 32.05128205128205,
+        "children": [
+          {
+            "id": "9aa9dcc8fc8e1b2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3ab17cfc44f5f7ce",
+  "lastOpenFiles": [
+    "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm/RoundRobin.md",
+    "Lore/UCA/NALR/VA/Dictionary/symphony.md",
+    "Lore/UCA/NALR/VA/Dictionary/Vigilant.md",
+    "Lore/UCA/NALR/VA/Dictionary/scoot.md",
+    "Lore/UCA/NALR/VA/Dictionary/serendipity.md",
+    "Lore/UCA/NALR/VA/Dictionary/paradigm.md",
+    "Lore/UCA/NALR/VA/Dictionary/Redundancy.md",
+    "Lore/UCA/NALR/VA/Dictionary/pruning.md",
+    "Lore/UCA/NALR/VA/Dictionary/preening.md",
+    "Lore/UCA/NALR/VA/Dictionary/ponder.md",
+    "Lore/UCA/NALR/VA/Dictionary/Dubious.md",
+    "Lore/UCA/NALR/VA/Dictionary/peculiar.md",
+    "Lore/UCA/NALR/VA/Dictionary/framework.md",
+    "Lore/UCA/NALR/VA/Dictionary/niche.md",
+    "Lore/UCA/NALR/VA/Dictionary/Latin.md",
+    "Lore/UCA/NALR/VA/Dictionary/direct-indirect(Verb).md",
+    "Lore/UCA/NALR/VA/Dictionary/federal.md",
+    "Lore/UCA/NALR/VA/Dictionary/DDOS.md",
+    "Lore/UCA/NALR/VA/Dictionary/cacophony.md",
+    "Lore/UCA/NALR/VA/Dictionary/Direct-Indirect(Narration).md",
+    "Lore/UCA/NALR/VA/Dictionary/contemplate.md",
+    "Lore/UCA/NALR/VA/Dictionary/Compliance.md",
+    "Lore/UCA/NALR/VA/Dictionary/bohemian.md",
+    "Lore/UCA/NALR/VA/Dictionary/Active and Passive.md",
+    "Lore/UCA/Evening Session/Problem Solving/PS Material/Reason for choosing 31.md",
+    "Lore/UCA/Evening Session/Problem Solving/PS Material/Java Interface.md",
+    "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm",
+    "Lore/UCA/NALR/VA/Dictionary",
+    "Lore/UCA/Evening Session/Problem Solving/PS Material",
+    "Lore/UCA/Evening Session/CN_OS/Data",
+    "Lore/CN/Networks/Network Attributes/Physical Topology",
+    "Lore/UCA/SD/Material",
+    "Lore/UCA/NALR/VA",
+    "Lore/UCA/NALR/NA",
+    "Lore/UCA/Evening Session/Problem Solving",
+    "Lore/UCA/Evening Session/Day1.pptx",
+    "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
+    "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
+    "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",
+    "Substrate/Images/WhatsApp Image 2024-12-11 at 20.33.14_5f03dfe8.jpg",
+    "Substrate/Images/WhatsApp Image 2024-12-11 at 20.33.13_fdb4be29.jpg",
+    "Substrate/Images/WhatsApp Image 2024-12-11 at 20.33.13_700e083b.jpg",
+    "Substrate/Images/Pasted image 20260224195103.png",
+    "Substrate/Images/Pasted image 20260224194751.png",
+    "Substrate/Images/Pasted image 20260217192258.png",
+    "Substrate/Images/Pasted image 20260217192229.png",
+    "Niche/Interesting Topics/Work.canvas"
+  ]
+}

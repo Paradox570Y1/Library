@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "cards",
+    "extended-colorschemes"
+  ],
+  "accentColor": "",
+  "showViewHeader": true,
+  "showRibbon": false
+}

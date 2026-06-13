@@ -1,0 +1,2 @@
+- If array is declared inside main in c++ and java then it has by default garbage value.
+- If array is declared globally outside the main function then by default all elements have default value 0.

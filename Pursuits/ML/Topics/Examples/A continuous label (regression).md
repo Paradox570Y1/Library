@@ -1,0 +1,2 @@
+- It does not have a discrete set of possible values, which often means you are working with numerical data. 
+- In the snow cone sales example, we are trying to predict the number of snow cones sold. Here, our label is a number that could, in theory, be any value.

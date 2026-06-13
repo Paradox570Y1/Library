@@ -1,0 +1,9 @@
+- A local area network (LAN) is usually privately owned and connects some hosts in a single office, building, or campus.
+- Depending on the needs of an organization, a LAN can be as simple as two PCs and a printer in someone’s home office, or it can extend throughout a company and include audio and video devices.
+- Each host in a LAN has an identifier, an address, that uniquely defines the host in the LAN. 
+- A packet sent by a host to another host carries both the source host’s and the destination host’s addresses. 
+- In the past, all hosts in a network were connected through a common cable, which meant that a packet sent from one host to another was received by all hosts. The intended recipient kept the packet; the others dropped the packet. 
+- Today, most LANs use a smart connecting switch, which is able to recognize the destination address of the packet and guide the packet to its destination without sending it to all other hosts. 
+- The switch alleviates the traffic in the LAN and allows more than one pair to communicate with each other at the same time if there is no common source and destination among them. Note that the above definition of a LAN does not define the minimum or maximum number of hosts in a LAN. Figure 1.8 shows a LAN using either a common cable or a switch.
+  ![[Pasted image 20240630152241.png|450]]
+- When LANs were used in isolation (which is rare today), they were designed to allow resources to be shared between the hosts. As we will see shortly, LANs today are connected to each other and to WANs (discussed next) to create communication at a wider level.

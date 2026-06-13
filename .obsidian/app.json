@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

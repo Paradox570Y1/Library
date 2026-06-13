@@ -1,0 +1,21 @@
+- required
+- Types of input
+	- text
+	- [[email]]
+	- password
+	- number
+	- [[checkbox]]
+	- radio
+	- color
+	- [[tel]]
+	- [[URL]]
+- value
+- placeholder
+- [[label]]
+- [[method]]
+- [[action]]
+- [[datalist]]
+- [[select]]
+- [[textarea]]
+- [[fieldset and legend]]
+- [pattern](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern)

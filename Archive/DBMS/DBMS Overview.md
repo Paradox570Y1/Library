@@ -1,0 +1,4 @@
+- Data- raw material (collection of facts) which can be processed into information (put those facts into context) , using which we can gather insights based on which we can do decision making, increase the reach of our product.
+- Types of Data:
+	- Quantitative: numerical data like pricing , volume, weight etc.
+	- Qualitative: Descriptive like name, gender, hair color etc.

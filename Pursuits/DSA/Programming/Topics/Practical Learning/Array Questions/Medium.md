@@ -1,0 +1,14 @@
+- [[2SumProblem]] // hashing with map or in case of sorted data just use two pointers
+- [[Sort an array of 0's 1's and 2's]] // use any sort or Dutch national flag algorithm
+- [[Majority Element greater than n by 2 times]] // increase count for array element if it is same as candidate and decrease if not , in case it reaches 0 change to current candidate with initial count 1
+- [[Maximum subarray sum]] // remove negative chunk to ensure only positive chunk or 0 is added to current value to get the maximum sum
+- [[Max sum in sub-arrays with min values]] // adjacent sum is enough
+- [[121. Best Time to Buy and Sell Stock]] // keep track of lowest while evaluating profit in case cur price is big
+- [[Rearrange the array in alternating positive and negative items]] //use another array to pick elements from original
+- [[Next Permutation]] // trace the increasing order from the last if their is a dip then that's the element you would swap with just bigger element in the sorted part to the right and the reverse the right portion.
+- [[Leaders in an Array problem]] //traverse from back and keep a max counter for right section to cur index
+- [[Longest Consecutive Sequence]] // brute is to search for next in whole array or you can sort the array and then check longest sequence or use hash set to store all elements and then if an element is smallest in some sequence then keep checking the next
+- [[Set Matrix Zeroes]] // based on 0 pos mark the ith and jth row and col to be filled with 0 in second pass.
+- [[Rotate Matrix by 90 degrees]] //take transpose and reverse each row
+- [[Spiral Matrix]] // use boundaries and pointers
+- [[Subarray sum equals K]] //use hashmap with traversal and store the count of subarray sum possible.

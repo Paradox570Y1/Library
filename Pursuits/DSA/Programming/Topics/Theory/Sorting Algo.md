@@ -1,0 +1,10 @@
+- [[Selection Sort]]
+- [[Bubble Sort]]
+- [[Insertion Sort]]
+- [[Merge Sort]]
+- [[Quick Sort]]
+- [[Shell Sort]]
+- [[Heap Sort]]
+- [[912. Sort an Array]]
+
+![[Pasted image 20250822202209.png]]

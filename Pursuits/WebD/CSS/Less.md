@@ -1,0 +1,3 @@
+- In web development, "Less" stands for "Leaner Style Sheets." 
+- It is a backward-compatible language extension for CSS. 
+- Less extends CSS with dynamic behavior such as variables, mixins, operations, and functions. It allows for more manageable and reusable stylesheets, making it easier to maintain and scale complex web projects.

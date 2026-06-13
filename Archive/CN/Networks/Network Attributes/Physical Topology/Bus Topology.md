@@ -1,0 +1,18 @@
+- The preceding examples all describe point-to-point connections. A bus topology, on the other hand, is multipoint. One long cable acts as a backbone to link all the devices in a network.
+  ![[Pasted image 20240630133208.png|450]]
+- Nodes are connected to the `bus cable` by drop lines and taps. 
+	- A `drop line` is a connection running between the device and the main(bus cable) cable. 
+	- A `tap` is a connector that either splices into the main cable or punctures the sheathing of a cable to create a contact with the metallic core. 
+- As a signal travels along the backbone, some of its energy is transformed into heat. Therefore, it becomes weaker and weaker as it travels farther and far their. For this reason there is a _limit on the number of taps a bus can support and on the distance between those taps_.
+- Advantages
+	- Advantages of a bus topology include ease of installation. Backbone cable can be laid along the most efficient path, then connected to the nodes by drop lines of various lengths. 
+	- In this way, a bus uses less cabling than mesh or star topologies. In a star, for example, four network devices in the same room require four lengths of cable reaching all the way to the hub. In a bus, this redundancy is eliminated. Only the backbone cable stretches through the entire facility. 
+	- Each drop line has to reach only as far as the nearest point on the backbone.
+- Disadvantages
+	- Disadvantages include difficult reconnection and fault isolation. 
+	- A bus is usually designed to be optimally efficient at installation. It can therefore be difficult to add new devices. 
+	- Signal reflection at the taps can cause degradation in quality. This degradation can be controlled by limiting the number and spacing of devices connected to a given length of cable. Adding new devices may therefore require modification or replacement of the backbone. 
+	- In addition, a fault or break in the bus cable stops all transmission, even between devices on the same side of the problem. The damaged area reflects signals back in the direction of origin, creating noise in both directions. 
+	- `Bus topology was the one of the first topologies used in the design of early local area networks. `
+	- Traditional Ethernet LANs can use a bus topology, but they are less popular now for reasons we will discuss in Chapter 13.
+- If the network traffic is heavy, it increases collisions in the network. To avoid this, various protocols are used in the MAC layer known as Pure Aloha, Slotted Aloha, CSMA/CD, etc. •Security is very low

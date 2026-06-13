@@ -1,0 +1,2 @@
+### Viewport height
+In CSS, `100vh` refers to 100% of the viewport height. The `vh` unit stands for "viewport height," where 1vh is equal to 1% of the height of the viewport (the visible part of a web page in the browser window). Therefore, `100vh` means the element will take up 100% of the viewport height, making it as tall as the browser window. This unit is commonly used for creating full-height sections on web pages.

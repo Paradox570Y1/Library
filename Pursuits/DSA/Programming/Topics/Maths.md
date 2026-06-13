@@ -1,0 +1,5 @@
+- [[Sum of N numbers]]
+- [[Sum of Cube of N numbers]]
+- [[To find particular no. in Pascal Triangle where r & c are given]]
+- [[Sum of Square of N numbers]]
+- [[1317. Convert Integer to the Sum of Two No-Zero Integers]]

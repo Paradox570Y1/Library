@@ -1,0 +1,1 @@
+- [Tupac Shakur](https://en.wikipedia.org/wiki/Tupac_Shakur)

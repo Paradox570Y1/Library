@@ -1,0 +1,13 @@
+- background-color
+- background
+	[[background vs background-color]]
+- color
+- [[text-align]]
+- [[font-size]]
+- [[font-weight]] (normal)
+- width
+- height
+- [[font-family]]
+- [[border css]]
+- [[div]]
+- [[Specificity and inheritance]]

@@ -1,0 +1,9 @@
+- [1] Topics
+- [[Relationship between AI ML]]
+- [[Impact of ML]]
+- [[Types of ML]]
+- [[Solving Problems using ML]]
+- [[Machine Learning Terminology]]
+- [[Primary Components of ML]]
+- [[Major Steps in ML Process]]
+- [[Case Study]]
