@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd6f4c39ad44b86",
+        "id": "391e6f0b22d4c31d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb5179d82050dc1a",
+            "id": "a8f26113f93cfcf3",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -231,7 +231,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7473993419863502,
+                  "scale": 0.7711520178226913,
                   "close": true
                 }
               },
@@ -289,11 +289,23 @@
       "templater-obsidian:Templater": false,
       "media-extended:Open media": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ab17cfc44f5f7ce",
+  "active": "a8f26113f93cfcf3",
   "lastOpenFiles": [
+    "Pursuits/System Design/Roadmap.md",
+    "Pursuits/System Design/Phases/Phase 1.md",
+    "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
+    "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
+    "Pursuits/System Design/Phases/Phase 1",
+    "Assets/Books",
+    "Assets/New folder",
+    "Pursuits/System Design/Phases/Phase 0.md",
+    "Pursuits/System Design/Phases/Phase 0.md",
+    "Pursuits/System Design/Phases",
+    "Pursuits/System Design",
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm/RoundRobin.md",
     "Lore/UCA/NALR/VA/Dictionary/symphony.md",
     "Lore/UCA/NALR/VA/Dictionary/Vigilant.md",
@@ -314,22 +326,10 @@
     "Lore/UCA/NALR/VA/Dictionary/DDOS.md",
     "Lore/UCA/NALR/VA/Dictionary/cacophony.md",
     "Lore/UCA/NALR/VA/Dictionary/Direct-Indirect(Narration).md",
-    "Lore/UCA/NALR/VA/Dictionary/contemplate.md",
-    "Lore/UCA/NALR/VA/Dictionary/Compliance.md",
-    "Lore/UCA/NALR/VA/Dictionary/bohemian.md",
-    "Lore/UCA/NALR/VA/Dictionary/Active and Passive.md",
-    "Lore/UCA/Evening Session/Problem Solving/PS Material/Reason for choosing 31.md",
-    "Lore/UCA/Evening Session/Problem Solving/PS Material/Java Interface.md",
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm",
     "Lore/UCA/NALR/VA/Dictionary",
     "Lore/UCA/Evening Session/Problem Solving/PS Material",
     "Lore/UCA/Evening Session/CN_OS/Data",
-    "Lore/CN/Networks/Network Attributes/Physical Topology",
-    "Lore/UCA/SD/Material",
-    "Lore/UCA/NALR/VA",
-    "Lore/UCA/NALR/NA",
-    "Lore/UCA/Evening Session/Problem Solving",
-    "Lore/UCA/Evening Session/Day1.pptx",
     "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
     "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
     "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",
