@@ -11,9 +11,14 @@
             "id": "a8f26113f93cfcf3",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Networks"
             }
           }
         ],
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "76b97e6610280919",
@@ -209,6 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Computer Networks"
             }
           },
           {
@@ -285,7 +292,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "media-extended:Open media": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
@@ -295,15 +301,14 @@
   },
   "active": "a8f26113f93cfcf3",
   "lastOpenFiles": [
-    "Pursuits/System Design/Roadmap.md",
-    "Pursuits/System Design/Phases/Phase 1.md",
     "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
     "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
+    "Pursuits/System Design/Phases/Phase 1.md",
+    "Pursuits/System Design/Phases/Phase 0.md",
+    "Pursuits/System Design/Roadmap.md",
     "Pursuits/System Design/Phases/Phase 1",
     "Assets/Books",
     "Assets/New folder",
-    "Pursuits/System Design/Phases/Phase 0.md",
-    "Pursuits/System Design/Phases/Phase 0.md",
     "Pursuits/System Design/Phases",
     "Pursuits/System Design",
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm/RoundRobin.md",
