@@ -147,5 +147,14 @@
       ],
       "key": "B"
     }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }

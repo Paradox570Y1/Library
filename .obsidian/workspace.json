@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "391e6f0b22d4c31d",
+        "id": "f5da3b039b656b83",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f26113f93cfcf3",
+            "id": "38dabe8c6e6790fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,9 +20,17 @@
               "icon": "lucide-file",
               "title": "Computer Networks"
             }
+          },
+          {
+            "id": "c1490c9b981fa845",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "76b97e6610280919",
@@ -286,6 +293,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -296,14 +306,18 @@
       "media-extended:Open media": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8f26113f93cfcf3",
+  "active": "38dabe8c6e6790fd",
   "lastOpenFiles": [
-    "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
+    "Pursuits/System Design/Phases/Phase 1/utils/cable modem.md",
     "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
+    "Pursuits/System Design/Phases/Phase 1/utils/DSL.md",
+    "Pursuits/System Design/Phases/Phase 1/utils",
     "Pursuits/System Design/Phases/Phase 1.md",
+    "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
     "Pursuits/System Design/Phases/Phase 0.md",
     "Pursuits/System Design/Roadmap.md",
     "Pursuits/System Design/Phases/Phase 1",
@@ -334,7 +348,6 @@
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm",
     "Lore/UCA/NALR/VA/Dictionary",
     "Lore/UCA/Evening Session/Problem Solving/PS Material",
-    "Lore/UCA/Evening Session/CN_OS/Data",
     "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
     "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
     "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",

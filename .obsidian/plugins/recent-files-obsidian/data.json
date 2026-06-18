@@ -5,12 +5,20 @@
       "path": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md"
     },
     {
-      "basename": "computer-networking-a-top-down-approach-9",
-      "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
+      "basename": "cable modem",
+      "path": "Pursuits/System Design/Phases/Phase 1/utils/cable modem.md"
+    },
+    {
+      "basename": "DSL",
+      "path": "Pursuits/System Design/Phases/Phase 1/utils/DSL.md"
     },
     {
       "basename": "Phase 1",
       "path": "Pursuits/System Design/Phases/Phase 1.md"
+    },
+    {
+      "basename": "computer-networking-a-top-down-approach-9",
+      "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
     },
     {
       "basename": "Phase 0",

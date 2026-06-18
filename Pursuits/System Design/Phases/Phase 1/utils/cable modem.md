@@ -1,0 +1,3 @@
+- It delivers internet through the thick, shielded **coaxial cables** originally laid down for cable TV.
+- It converts digital data from your computer/router into signals that travel over the cable network to the ISP.
+- Cable internet typically offers **higher speeds than DSL** because coaxial cables can carry more data.
