@@ -12,11 +12,11 @@ Companion website and Author website [Link](https://media.pearsoncmg.com/bc/abp/
 - Packet Switches: used in access control deciding who or what is allowed to access a network, resource, or service.
 
 >**NOTE**
->Packet-switched networks (which transport packets) are in many ways similar to transportation networks transporting vehicles over highways, roads and, intersections. Consider, for example, a factory that needs to move a large amount of cargo to some destination warehouse located thousands of kilometers away. At the factory, the cargo is segmented and loaded into a fleet of trucks. Each of the trucks then independently travels through the network of highways, roads, and intersections to the destination warehouse. At the desti nation warehouse, the cargo is unloaded and grouped with the rest of the cargo arriving from the same shipment. Thus, in many ways, packets are anal ogous to trucks, communication links are analogous to highways and roads, packet switches are analogous to intersections, and end systems are analogous to buildings. Just as a truck takes a path through the transportation network, a packet takes a path through a computer network.
+>Packet-switched networks (which transport packets) are in many ways similar to transportation networks transporting vehicles over highways, roads and, intersections. Consider, for example, a factory that needs to move a large amount of cargo to some destination warehouse located thousands of kilometers away. At the factory, the cargo is segmented and loaded into a fleet of trucks. Each of the trucks then independently travels through the network of highways, roads, and intersections to the destination warehouse. At the destination warehouse, the cargo is unloaded and grouped with the rest of the cargo arriving from the same shipment. Thus, in many ways, packets are analogous to trucks, communication links are analogous to highways and roads, packet switches are analogous to intersections, and end systems are analogous to buildings. Just as a truck takes a path through the transportation network, a packet takes a path through a computer network.
 
 
 - End systems access the Internet through Internet Service Providers (ISPs)
-- ISP is in itself a net work of packet switches and communication links.
+- ISP is in itself a network of packet switches and communication links.
 - ISP provides variety of types of network access to the end systems:
 	- residential broadband access such as [[cable modem]] or [[DSL]] (Digital Subscriber Line)
 	- high-speed local area network access
@@ -42,4 +42,57 @@ Companion website and Author website [Link](https://media.pearsoncmg.com/bc/abp/
 
 
 ### Internet as a service
-continued (page 5)
+![[computer-networking-a-top-down-approach-9.pdf#page=29&rect=55,269,400,309|computer-networking-a-top-down-approach-9, p.5]]
+- Distributed applications are those application which involves multiple end systems. Example: WhatsApp, Netflix, Free Fire etc.
+	- These application run on end systems and not in packet switches or network core(routers).
+	- Network core facilitates the data exchange but are not concerned with the application which is source or sink of data
+- How does one program running on one end system instruct the Internet to deliver data to another program running on another end system?
+	- When an end system is attached to Internet it provides a socket interface. Using this interface a program asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
+	- This Internet socket interface is a set of rules that the sending program must follow so that the Internet can deliver the data to the destination program.
+	![[computer-networking-a-top-down-approach-9.pdf#page=30&rect=150,353,483,489|computer-networking-a-top-down-approach-9, p.6]]
+	- The postal service, of course, provides more than one service to its customers. It provides express delivery, reception confirmation, ordinary use, and many more services. In a similar manner, the Internet provides multiple ser vices to its applications. When you develop an Internet application, you too must choose one of the Internet’s services for your application.
+
+
+# Protocol
+- Protocols can be understand by human analogy.
+- Lets see how human protocol is analogous to network protocol
+![[Pasted image 20260705123831.png|400]]
+
+![[computer-networking-a-top-down-approach-9.pdf#page=32&rect=176,343,500,491|computer-networking-a-top-down-approach-9, p.8]]
+
+- the exchange of messages and the actions taken when these messages are sent and received are the key defining elements of a protocol
+- A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
+![[computer-networking-a-top-down-approach-9.pdf#page=32&rect=203,116,485,175|computer-networking-a-top-down-approach-9, p.8]]
+
+
+# The Network Edge
+
+- Computers and other devices connected to the Internet are often referred to as end systems.
+- End systems are also referred to as hosts because they host (that is, run) application programs such as a Web browser program, a Web server program, an e-mail client program, or an e-mail server program.
+- host and end system can be used interchangeably.
+- Hosts are sometimes further divided into two categories: clients and servers.
+
+![[computer-networking-a-top-down-approach-9.pdf#page=34&rect=150,408,482,524|computer-networking-a-top-down-approach-9, p.10]]
+![[computer-networking-a-top-down-approach-9.pdf#page=34&rect=159,38,468,365|computer-networking-a-top-down-approach-9, p.10]]
+
+| Term      | Meaning                                                                                                |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| **Host**  | A computer (physical or virtual) that runs applications, virtual machines, or services.                |
+| **Blade** | A thin, modular physical server that slides into a **blade chassis**. It is a type of server hardware. |
+|           |                                                                                                        |
+- Each blade is a physical server with its own CPU, RAM, and storage (or access to shared storage). If it runs workloads or virtual machines, it is functioning as a **host**.
+
+```bash
+Host
+├── Client
+│   ├── Laptop
+│   ├── Desktop
+│   └── Smartphone
+└── Server
+    ├── Tower Server
+    ├── Rack Server
+    └── Blade Server
+```
+
+
+### Access Networks
