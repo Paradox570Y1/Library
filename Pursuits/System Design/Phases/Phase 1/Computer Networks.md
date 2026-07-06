@@ -18,7 +18,7 @@ Companion website and Author website [Link](https://media.pearsoncmg.com/bc/abp/
 - End systems access the Internet through Internet Service Providers (ISPs)
 - ISP is in itself a network of packet switches and communication links.
 - ISP provides variety of types of network access to the end systems:
-	- residential broadband access such as [[cable modem]] or [[DSL]] (Digital Subscriber Line)
+	- residential broadband access such as [[cable]] or [[DSL]] (Digital Subscriber Line)
 	- high-speed local area network access
 	- mobile wireless access
 
@@ -96,3 +96,11 @@ Host
 
 
 ### Access Networks
+
+- The network that physically connects an end system to the first router (also known as the “edge router”) on a path from the end system to any other distant end system.
+
+- Home Access network includes DSL, Cable, FTTH, Fixed Wireless, and LEO Satellites
+- Three most prevalent type of home residential access are  
+	- digital subscriber line ([[DSL]])	
+	- [[cable]]
+	- fiber to the home (FTTH)

@@ -11,12 +11,23 @@
             "id": "38dabe8c6e6790fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/Pasted image 20260705123831.png"
+                "file": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260705123831"
+              "icon": "lucide-file",
+              "title": "Computer Networks"
+            }
+          },
+          {
+            "id": "e3ebd7199d352c3b",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           },
           {
@@ -26,10 +37,10 @@
               "type": "pdf",
               "state": {
                 "file": "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
-                "page": 34,
-                "left": -38,
-                "top": 367,
-                "zoom": 1.25
+                "page": 35,
+                "left": -13,
+                "top": 73,
+                "zoom": 1.055084745762712
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-a-top-down-approach-9"
@@ -227,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assets/Images/Pasted image 20260705123831.png",
+                "file": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pasted image 20260705123831"
+              "title": "Graph of Computer Networks"
             }
           },
           {
@@ -315,15 +326,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ab17cfc44f5f7ce",
+  "active": "38dabe8c6e6790fd",
   "lastOpenFiles": [
+    "Pursuits/System Design/Phases/Phase 1/utils/cable.md",
     "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
-    "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
-    "Assets/Images/Pasted image 20260705123831.png",
     "Pursuits/System Design/Phases/Phase 1.md",
-    "Pursuits/System Design/Roadmap.md",
     "Pursuits/System Design/Phases/Phase 1/utils/DSL.md",
-    "Pursuits/System Design/Phases/Phase 1/utils/cable modem.md",
+    "cable.md",
+    "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
+    "Assets/Images/Pasted image 20260706234335.png",
+    "Assets/Images/Pasted image 20260706234328.png",
+    "Assets/Images/Pasted image 20260705123831.png",
+    "Pursuits/System Design/Roadmap.md",
     "Pursuits/System Design/Phases/Phase 0.md",
     "Pursuits/System Design/Phases/Phase 1/utils",
     "Pursuits/System Design/Phases/Phase 1",
@@ -360,8 +374,6 @@
     "Substrate/Images/WhatsApp Image 2024-12-11 at 20.33.13_fdb4be29.jpg",
     "Substrate/Images/WhatsApp Image 2024-12-11 at 20.33.13_700e083b.jpg",
     "Substrate/Images/Pasted image 20260224195103.png",
-    "Substrate/Images/Pasted image 20260224194751.png",
-    "Substrate/Images/Pasted image 20260217192258.png",
     "Niche/Interesting Topics/Work.canvas"
   ]
 }
