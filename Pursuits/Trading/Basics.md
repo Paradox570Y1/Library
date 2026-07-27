@@ -5,10 +5,28 @@
 - Crypto Market
 - Forex Market
 
-
+# Terms to know
+- [[Security]]
+- [[Central Securities Depositories]]
+- [[Stock Trade Cost Breakdown]]
 #### Decide your broker which facilitates your trading:
-- Know your broker (KYB)
+- Know your [[Broker]] (KYB)
 - Check legitimacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Decide your trading platform
 - Various brokers offer various trading platforms

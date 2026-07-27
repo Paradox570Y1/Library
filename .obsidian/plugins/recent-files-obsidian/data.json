@@ -5,6 +5,22 @@
       "path": "Pursuits/Trading/Basics.md"
     },
     {
+      "basename": "Stock Trade Cost Breakdown",
+      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
+    },
+    {
+      "basename": "Security",
+      "path": "Pursuits/Trading/Basics/Security.md"
+    },
+    {
+      "basename": "Central Securities Depositories",
+      "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
+    },
+    {
+      "basename": "Broker",
+      "path": "Pursuits/Trading/Basics/Broker.md"
+    },
+    {
       "basename": "computer-networking-a-top-down-approach-9",
       "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
     },
@@ -183,10 +199,6 @@
     {
       "basename": "JSON behavior",
       "path": "Explore/WebD/JavaScript files/JSON behavior.md"
-    },
-    {
-      "basename": "objects are not storage-friendly by default",
-      "path": "Explore/WebD/JavaScript files/objects are not storage-friendly by default.md"
     }
   ],
   "omittedPaths": []

@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6898f37fba9f065c",
+        "id": "fd2b16f5e70fe757",
         "type": "tabs",
         "children": [
           {
-            "id": "f3dde7ac4e3f251a",
+            "id": "af5acca2f5938ea0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pursuits/Trading/Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longest subarray",
+                "query": "\"longest subarray\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "76b97e6610280919",
@@ -213,7 +209,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pursuits/Trading/Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Basics"
+              "title": "Graph view"
             }
           },
           {
@@ -301,9 +296,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3dde7ac4e3f251a",
+  "active": "af5acca2f5938ea0",
   "lastOpenFiles": [
     "Pursuits/Trading/Basics.md",
+    "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md",
+    "Pursuits/Trading/Basics/Security.md",
+    "Pursuits/Trading/Basics/Central Securities Depositories.md",
+    "Pursuits/Trading/Basics/Broker.md",
+    "Pursuits/Trading/Basics",
     "Pursuits/Trading",
     "Assets/Books/computer-networking-a-top-down-approach-9.pdf",
     "Pursuits/System Design/Phases/Phase 1/Computer Networks.md",
@@ -336,12 +336,7 @@
     "Lore/UCA/NALR/VA/Dictionary/peculiar.md",
     "Lore/UCA/NALR/VA/Dictionary/framework.md",
     "Lore/UCA/NALR/VA/Dictionary/niche.md",
-    "Lore/UCA/NALR/VA/Dictionary/Latin.md",
-    "Lore/UCA/NALR/VA/Dictionary/direct-indirect(Verb).md",
-    "Lore/UCA/NALR/VA/Dictionary/federal.md",
-    "Lore/UCA/NALR/VA/Dictionary/DDOS.md",
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm",
-    "Lore/UCA/NALR/VA/Dictionary",
     "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
     "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
     "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",
