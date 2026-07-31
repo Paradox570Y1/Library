@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Candidate Requirements",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md"
+    },
+    {
+      "basename": "Raw data",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
+    },
+    {
       "basename": "Basics",
       "path": "Pursuits/Trading/Basics.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Ways to create Object",
       "path": "Explore/WebD/JavaScript files/Ways to create Object.md"
-    },
-    {
-      "basename": "localStorage",
-      "path": "Explore/WebD/JavaScript files/localStorage.md"
-    },
-    {
-      "basename": "JSON behavior",
-      "path": "Explore/WebD/JavaScript files/JSON behavior.md"
     }
   ],
   "omittedPaths": []

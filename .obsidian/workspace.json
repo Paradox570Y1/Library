@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2b16f5e70fe757",
+        "id": "a54097489f5a463a",
         "type": "tabs",
         "children": [
           {
-            "id": "af5acca2f5938ea0",
+            "id": "d8d28c7d1ea722aa",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Candidate Requirements"
             }
           }
         ]
@@ -91,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "76b97e6610280919",
@@ -209,6 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Candidate Requirements"
             }
           },
           {
@@ -296,8 +301,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af5acca2f5938ea0",
+  "active": "3ab17cfc44f5f7ce",
   "lastOpenFiles": [
+    "Pursuits/Automation Engine/Pre Discovery/Raw data.md",
+    "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
+    "Pursuits/Automation Engine/Pre Discovery",
+    "Pursuits/Automation Engine/Untitled.md",
+    "Pursuits/Automation Engine",
     "Pursuits/Trading/Basics.md",
     "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md",
     "Pursuits/Trading/Basics/Security.md",
@@ -321,7 +331,6 @@
     "Assets/Books",
     "Assets/New folder",
     "Pursuits/System Design/Phases",
-    "Pursuits/System Design",
     "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm/RoundRobin.md",
     "Lore/UCA/NALR/VA/Dictionary/symphony.md",
     "Lore/UCA/NALR/VA/Dictionary/Vigilant.md",
@@ -333,10 +342,6 @@
     "Lore/UCA/NALR/VA/Dictionary/preening.md",
     "Lore/UCA/NALR/VA/Dictionary/ponder.md",
     "Lore/UCA/NALR/VA/Dictionary/Dubious.md",
-    "Lore/UCA/NALR/VA/Dictionary/peculiar.md",
-    "Lore/UCA/NALR/VA/Dictionary/framework.md",
-    "Lore/UCA/NALR/VA/Dictionary/niche.md",
-    "Lore/UCA/Evening Session/CN_OS/Data/Scheduling Algorithm",
     "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
     "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
     "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",
