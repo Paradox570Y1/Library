@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a54097489f5a463a",
+        "id": "6025e28294b42799",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d28c7d1ea722aa",
+            "id": "5b2dff86be147b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
+                "file": "Pursuits/Trading/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Candidate Requirements"
+              "title": "Basics"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "76b97e6610280919",
@@ -213,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
+                "file": "Pursuits/Trading/Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Candidate Requirements"
+              "title": "Local graph"
             }
           },
           {
@@ -301,17 +304,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ab17cfc44f5f7ce",
+  "active": "5b2dff86be147b30",
   "lastOpenFiles": [
-    "Pursuits/Automation Engine/Pre Discovery/Raw data.md",
+    "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md",
+    "Pursuits/Trading/Basics.md",
+    "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md",
+    "Pursuits/Trading/Basics/Central Securities Depositories.md",
+    "Pursuits/Trading/Basics/Security.md",
+    "Archive/UCA/CC/Untitled.md",
+    "Archive/UCA/CC/Components/Target.md",
     "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md",
+    "Pursuits/Automation Engine/Pre Discovery/Raw data.md",
     "Pursuits/Automation Engine/Pre Discovery",
     "Pursuits/Automation Engine/Untitled.md",
     "Pursuits/Automation Engine",
-    "Pursuits/Trading/Basics.md",
-    "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md",
-    "Pursuits/Trading/Basics/Security.md",
-    "Pursuits/Trading/Basics/Central Securities Depositories.md",
     "Pursuits/Trading/Basics/Broker.md",
     "Pursuits/Trading/Basics",
     "Pursuits/Trading",
@@ -339,9 +345,6 @@
     "Lore/UCA/NALR/VA/Dictionary/paradigm.md",
     "Lore/UCA/NALR/VA/Dictionary/Redundancy.md",
     "Lore/UCA/NALR/VA/Dictionary/pruning.md",
-    "Lore/UCA/NALR/VA/Dictionary/preening.md",
-    "Lore/UCA/NALR/VA/Dictionary/ponder.md",
-    "Lore/UCA/NALR/VA/Dictionary/Dubious.md",
     "Substrate/Images/WhatsApp Image 2025-07-08 at 19.51.25_0fccf2b7.jpg",
     "Substrate/Images/WhatsApp Image 2025-07-02 at 20.13.51_d9524582.jpg",
     "Substrate/Images/WhatsApp Image 2025-01-16 at 18.50.44_671d6f8a.jpg",

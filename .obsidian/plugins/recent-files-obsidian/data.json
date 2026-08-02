@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Candidate Requirements",
-      "path": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md"
-    },
-    {
-      "basename": "Raw data",
-      "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
-    },
-    {
       "basename": "Basics",
       "path": "Pursuits/Trading/Basics.md"
+    },
+    {
+      "basename": "Intraday vs Delivery Equity",
+      "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
     },
     {
       "basename": "Stock Trade Cost Breakdown",
       "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
     },
     {
+      "basename": "Central Securities Depositories",
+      "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
+    },
+    {
       "basename": "Security",
       "path": "Pursuits/Trading/Basics/Security.md"
     },
     {
-      "basename": "Central Securities Depositories",
-      "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
+      "basename": "Target",
+      "path": "Archive/UCA/CC/Components/Target.md"
+    },
+    {
+      "basename": "Candidate Requirements",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md"
+    },
+    {
+      "basename": "Raw data",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
     },
     {
       "basename": "Broker",
@@ -191,14 +199,6 @@
     {
       "basename": "Objects in JS",
       "path": "Explore/WebD/JavaScript files/Objects in JS.md"
-    },
-    {
-      "basename": "Wrapper Objects in JS",
-      "path": "Explore/WebD/JavaScript files/Wrapper Objects in JS.md"
-    },
-    {
-      "basename": "Ways to create Object",
-      "path": "Explore/WebD/JavaScript files/Ways to create Object.md"
     }
   ],
   "omittedPaths": []
