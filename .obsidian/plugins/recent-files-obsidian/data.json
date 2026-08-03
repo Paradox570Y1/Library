@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Approx Trade charges",
+      "path": "Pursuits/Trading/Basics/Broker/Approx Trade charges.md"
+    },
+    {
+      "basename": "Broker",
+      "path": "Pursuits/Trading/Basics/Broker.md"
+    },
+    {
       "basename": "Basics",
       "path": "Pursuits/Trading/Basics.md"
+    },
+    {
+      "basename": "Stock Trade Cost Breakdown",
+      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
     },
     {
       "basename": "Intraday vs Delivery Equity",
       "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
     },
     {
-      "basename": "Stock Trade Cost Breakdown",
-      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
+      "basename": "Auto Square Off charges",
+      "path": "Pursuits/Trading/Basics/Broker/Auto Square Off charges.md"
+    },
+    {
+      "basename": "DP Charges",
+      "path": "Pursuits/Trading/Basics/Broker/DP Charges.md"
+    },
+    {
+      "basename": "AMC Charges",
+      "path": "Pursuits/Trading/Basics/Broker/AMC Charges.md"
+    },
+    {
+      "basename": "1752. Check if Array Is Sorted and Rotated",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/1752. Check if Array Is Sorted and Rotated.md"
+    },
+    {
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+    },
+    {
+      "basename": "Array Questions",
+      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+    },
+    {
+      "basename": "Practical Learning",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Central Securities Depositories",
@@ -31,10 +71,6 @@
     {
       "basename": "Raw data",
       "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
-    },
-    {
-      "basename": "Broker",
-      "path": "Pursuits/Trading/Basics/Broker.md"
     },
     {
       "basename": "computer-networking-a-top-down-approach-9",
@@ -163,42 +199,6 @@
     {
       "basename": "Browser",
       "path": "Explore/WebD/Topics/Browser.md"
-    },
-    {
-      "basename": "AVL Tree",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Binary Search Trees/AVL Tree.md"
-    },
-    {
-      "basename": "Binary Search Trees",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Binary Search Trees/Binary Search Trees.md"
-    },
-    {
-      "basename": "Prototypical Inheritance",
-      "path": "Explore/WebD/JavaScript files/Prototypical Inheritance.md"
-    },
-    {
-      "basename": "Mongo DB",
-      "path": "Explore/WebD/JavaScript files/Mongo DB.md"
-    },
-    {
-      "basename": "2035. Partition Array Into Two Arrays to Minimize Sum Difference",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/2035. Partition Array Into Two Arrays to Minimize Sum Difference.md"
-    },
-    {
-      "basename": "Partitions With Given Difference",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/Partitions With Given Difference.md"
-    },
-    {
-      "basename": "Array partition with minimum difference",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/Array partition with minimum difference.md"
-    },
-    {
-      "basename": "Roman to Integer",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Strings/Roman to Integer.md"
-    },
-    {
-      "basename": "Objects in JS",
-      "path": "Explore/WebD/JavaScript files/Objects in JS.md"
     }
   ],
   "omittedPaths": []
