@@ -10,6 +10,8 @@
 - [[Central Securities Depositories]]
 - [[Stock Trade Cost Breakdown]]
 - [[Intraday vs Delivery Equity]]
+- [[Trading styles]]
+- [[Factors affecting trade]]
 #### Decide your broker which facilitates your trading:
 - Know your [[Broker]] (KYB)
 - Check legitimacy

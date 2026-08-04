@@ -1,44 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Approx Trade charges",
-      "path": "Pursuits/Trading/Basics/Broker/Approx Trade charges.md"
-    },
-    {
-      "basename": "Broker",
-      "path": "Pursuits/Trading/Basics/Broker.md"
+      "basename": "Factors affecting trade",
+      "path": "Pursuits/Trading/Basics/Factors affecting trade.md"
     },
     {
       "basename": "Basics",
       "path": "Pursuits/Trading/Basics.md"
     },
     {
-      "basename": "Stock Trade Cost Breakdown",
-      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
+      "basename": "Trading styles",
+      "path": "Pursuits/Trading/Basics/Trading styles.md"
     },
     {
-      "basename": "Intraday vs Delivery Equity",
-      "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
+      "basename": "Broker",
+      "path": "Pursuits/Trading/Basics/Broker.md"
     },
     {
-      "basename": "Auto Square Off charges",
-      "path": "Pursuits/Trading/Basics/Broker/Auto Square Off charges.md"
+      "basename": "189. Rotate Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/189. Rotate Array.md"
     },
     {
-      "basename": "DP Charges",
-      "path": "Pursuits/Trading/Basics/Broker/DP Charges.md"
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
     },
     {
-      "basename": "AMC Charges",
-      "path": "Pursuits/Trading/Basics/Broker/AMC Charges.md"
+      "basename": "26. Remove Duplicates from Sorted Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/26. Remove Duplicates from Sorted Array.md"
+    },
+    {
+      "basename": "Approx Trade charges",
+      "path": "Pursuits/Trading/Basics/Broker/Approx Trade charges.md"
     },
     {
       "basename": "1752. Check if Array Is Sorted and Rotated",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/1752. Check if Array Is Sorted and Rotated.md"
     },
     {
-      "basename": "Easy",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+      "basename": "Intraday vs Delivery Equity",
+      "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
+    },
+    {
+      "basename": "Stock Trade Cost Breakdown",
+      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
     },
     {
       "basename": "Array Questions",
@@ -51,6 +55,18 @@
     {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Auto Square Off charges",
+      "path": "Pursuits/Trading/Basics/Broker/Auto Square Off charges.md"
+    },
+    {
+      "basename": "DP Charges",
+      "path": "Pursuits/Trading/Basics/Broker/DP Charges.md"
+    },
+    {
+      "basename": "AMC Charges",
+      "path": "Pursuits/Trading/Basics/Broker/AMC Charges.md"
     },
     {
       "basename": "Central Securities Depositories",
@@ -183,22 +199,6 @@
     {
       "basename": "Longest Substring with K Unique",
       "path": "Explore/DSA/Programming/Topics/Practical Learning/Sliding Window/Longest Substring with K Unique.md"
-    },
-    {
-      "basename": "Learn JS",
-      "path": "Explore/WebD/Learn JS.md"
-    },
-    {
-      "basename": "Code Files",
-      "path": "Explore/WebD/Topics/Code Files.md"
-    },
-    {
-      "basename": "WebD",
-      "path": "Explore/WebD/WebD.md"
-    },
-    {
-      "basename": "Browser",
-      "path": "Explore/WebD/Topics/Browser.md"
     }
   ],
   "omittedPaths": []
