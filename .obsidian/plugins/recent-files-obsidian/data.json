@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Union of Two Sorted Arrays",
+      "path": "Assets/Images/Union of Two Sorted Arrays.md"
+    },
+    {
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+    },
+    {
+      "basename": "283. Move Zeroes",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/283. Move Zeroes.md"
+    },
+    {
+      "basename": "189. Rotate Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/189. Rotate Array.md"
+    },
+    {
       "basename": "Factors affecting trade",
       "path": "Pursuits/Trading/Basics/Factors affecting trade.md"
+    },
+    {
+      "basename": "Array Questions",
+      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+    },
+    {
+      "basename": "Practical Learning",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Basics",
@@ -15,14 +43,6 @@
     {
       "basename": "Broker",
       "path": "Pursuits/Trading/Basics/Broker.md"
-    },
-    {
-      "basename": "189. Rotate Array",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/189. Rotate Array.md"
-    },
-    {
-      "basename": "Easy",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
     },
     {
       "basename": "26. Remove Duplicates from Sorted Array",
@@ -43,18 +63,6 @@
     {
       "basename": "Stock Trade Cost Breakdown",
       "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
-    },
-    {
-      "basename": "Array Questions",
-      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
-    },
-    {
-      "basename": "Practical Learning",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Auto Square Off charges",
@@ -191,14 +199,6 @@
     {
       "basename": "3844. Longest Almost-Palindromic Substring",
       "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/3844. Longest Almost-Palindromic Substring.md"
-    },
-    {
-      "basename": "Sliding Window & Two pointer",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Sliding Window/Sliding Window & Two pointer.md"
-    },
-    {
-      "basename": "Longest Substring with K Unique",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Sliding Window/Longest Substring with K Unique.md"
     }
   ],
   "omittedPaths": []
