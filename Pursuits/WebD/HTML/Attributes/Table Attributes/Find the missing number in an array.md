@@ -1,3 +1,5 @@
+[268. Missing Number](https://leetcode.com/problems/missing-number/)
+
 **Problem Statement:** Given an **integer N** and an array of size **N-1** containing N-1 numbers between 1 to N. Find the number(_between 1 to N_), that is not present in the given array.
 
 #### Naive Approach(Brute-force approach):

@@ -171,3 +171,23 @@ class Solution {
     }
 }
 ```
+
+
+### Cleanest version
+
+```java
+class Solution {
+    public int subarraySum(int[] nums, int k) {
+        int res = 0;
+        int total = 0;
+        Map<Integer,Integer> hm = new HashMap<>();
+        hm.put(0, 1);
+        for (int i = 0; i < nums.length; i++) {
+            total += nums[i];
+            res += hm.getOrDefault(total - k, 0);
+            hm.merge(total, 1, Integer::sum);
+        }
+        return res;
+    }
+}
+```

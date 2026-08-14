@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Union of Two Sorted Arrays",
-      "path": "Assets/Images/Union of Two Sorted Arrays.md"
+      "basename": "Longest Subarray with given Sum K(Positives)",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
     },
     {
       "basename": "Easy",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
     },
     {
-      "basename": "283. Move Zeroes",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/283. Move Zeroes.md"
-    },
-    {
-      "basename": "189. Rotate Array",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/189. Rotate Array.md"
-    },
-    {
-      "basename": "Factors affecting trade",
-      "path": "Pursuits/Trading/Basics/Factors affecting trade.md"
-    },
-    {
       "basename": "Array Questions",
       "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+    },
+    {
+      "basename": "Medium",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
+    },
+    {
+      "basename": "Subarray sum equals K",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Subarray sum equals K.md"
     },
     {
       "basename": "Practical Learning",
@@ -33,12 +29,64 @@
       "path": "Pursuits/DSA/Programming.md"
     },
     {
+      "basename": "Find the number that appears once, and the other numbers twice",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Find the number that appears once, and the other numbers twice.md"
+    },
+    {
+      "basename": "Find the missing number in an array",
+      "path": "Pursuits/WebD/HTML/Attributes/Table Attributes/Find the missing number in an array.md"
+    },
+    {
+      "basename": "1991. Find the Middle Index in Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/1991. Find the Middle Index in Array.md"
+    },
+    {
+      "basename": "Intersection of Sorted Arrays",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Intersection of Sorted Arrays.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/GoLang/Programming.md"
+    },
+    {
+      "basename": "Basics",
+      "path": "Pursuits/GoLang/Basics.md"
+    },
+    {
+      "basename": "Factors affecting trade",
+      "path": "Pursuits/Trading/Basics/Factors affecting trade.md"
+    },
+    {
+      "basename": "Union of Two Sorted Arrays",
+      "path": "Assets/Images/Union of Two Sorted Arrays.md"
+    },
+    {
       "basename": "Basics",
       "path": "Pursuits/Trading/Basics.md"
     },
     {
       "basename": "Trading styles",
       "path": "Pursuits/Trading/Basics/Trading styles.md"
+    },
+    {
+      "basename": "Intraday vs Delivery Equity",
+      "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
+    },
+    {
+      "basename": "Stock Trade Cost Breakdown",
+      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
+    },
+    {
+      "basename": "Security",
+      "path": "Pursuits/Trading/Basics/Security.md"
+    },
+    {
+      "basename": "283. Move Zeroes",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/283. Move Zeroes.md"
+    },
+    {
+      "basename": "189. Rotate Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/189. Rotate Array.md"
     },
     {
       "basename": "Broker",
@@ -57,14 +105,6 @@
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/1752. Check if Array Is Sorted and Rotated.md"
     },
     {
-      "basename": "Intraday vs Delivery Equity",
-      "path": "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md"
-    },
-    {
-      "basename": "Stock Trade Cost Breakdown",
-      "path": "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md"
-    },
-    {
       "basename": "Auto Square Off charges",
       "path": "Pursuits/Trading/Basics/Broker/Auto Square Off charges.md"
     },
@@ -79,10 +119,6 @@
     {
       "basename": "Central Securities Depositories",
       "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
-    },
-    {
-      "basename": "Security",
-      "path": "Pursuits/Trading/Basics/Security.md"
     },
     {
       "basename": "Target",
@@ -163,42 +199,6 @@
     {
       "basename": "Basics",
       "path": "Explore/Go Lang/Basics.md"
-    },
-    {
-      "basename": "Articulation Point",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Graphs/Articulation Point.md"
-    },
-    {
-      "basename": "1545. Find Kth Bit in Nth Binary String",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Strings/1545. Find Kth Bit in Nth Binary String.md"
-    },
-    {
-      "basename": "Strings",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Strings.md"
-    },
-    {
-      "basename": "1022. Sum of Root To Leaf Binary Numbers",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Bit Manipulation/1022. Sum of Root To Leaf Binary Numbers.md"
-    },
-    {
-      "basename": "Coding in JavaScript",
-      "path": "Explore/WebD/JavaScript files/Coding in JavaScript.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "Explore/WebD/JavaScript files/HTTP.md"
-    },
-    {
-      "basename": "761. Special Binary String",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Strings/761. Special Binary String.md"
-    },
-    {
-      "basename": "474. Ones and Zeroes",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/474. Ones and Zeroes.md"
-    },
-    {
-      "basename": "3844. Longest Almost-Palindromic Substring",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/DP/3844. Longest Almost-Palindromic Substring.md"
     }
   ],
   "omittedPaths": []

@@ -97,3 +97,36 @@ class Solution {
     }
 }
 ```
+
+
+
+```java
+class Solution {
+    static ArrayList<Integer> intersection(int arr1[], int arr2[]) {
+        // code here
+        ArrayList<Integer> res = new ArrayList<>();
+        int r = 0, a1 = 0, a2 = 0;
+        while (a1 < arr1.length && a2 < arr2.length) {
+            if (arr1[a1] < arr2[a2]) {
+                a1++;
+                continue;
+            }
+            if (arr2[a2] < arr1[a1]) {
+                a2++;
+                continue;
+            }
+            if(insertUnique(res, arr1[a1]))r++;
+            a1++;a2++;
+        }
+        return res;
+    }
+    private static boolean insertUnique(ArrayList<Integer> res, int target) {
+        int p = res.size();
+        if (p == 0 || res.get(p-1) != target) {
+            res.add(target);
+            return true;
+        }
+        return false;
+    }
+}
+```
