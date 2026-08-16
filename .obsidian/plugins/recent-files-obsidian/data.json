@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Longest Subarray with given Sum K(Positives)",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
-    },
-    {
       "basename": "Easy",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
     },
@@ -17,8 +13,8 @@
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
     },
     {
-      "basename": "Subarray sum equals K",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Subarray sum equals K.md"
+      "basename": "2SumProblem",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/2SumProblem.md"
     },
     {
       "basename": "Practical Learning",
@@ -27,6 +23,34 @@
     {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "AE-1",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Diagrams/AE-1.md"
+    },
+    {
+      "basename": "Longest Subarray with given Sum K(Positives)",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
+    },
+    {
+      "basename": "Effective Instruction",
+      "path": "Assets/Prompts/Effective Instruction.md"
+    },
+    {
+      "basename": "Code correctness",
+      "path": "Assets/Prompts/Code correctness.md"
+    },
+    {
+      "basename": "Candidate Requirements",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md"
+    },
+    {
+      "basename": "Raw data",
+      "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
+    },
+    {
+      "basename": "Subarray sum equals K",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Subarray sum equals K.md"
     },
     {
       "basename": "Find the number that appears once, and the other numbers twice",
@@ -125,14 +149,6 @@
       "path": "Archive/UCA/CC/Components/Target.md"
     },
     {
-      "basename": "Candidate Requirements",
-      "path": "Pursuits/Automation Engine/Pre Discovery/Candidate Requirements.md"
-    },
-    {
-      "basename": "Raw data",
-      "path": "Pursuits/Automation Engine/Pre Discovery/Raw data.md"
-    },
-    {
       "basename": "computer-networking-a-top-down-approach-9",
       "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Bit Manipulation",
       "path": "Explore/DSA/Programming/Topics/Practical Learning/Bit Manipulation/Bit Manipulation.md"
-    },
-    {
-      "basename": "Practical Learning",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning.md"
-    },
-    {
-      "basename": "Round Of in C++",
-      "path": "Explore/DSA/Programming/Topics/C++ Fundamentals/Round Of in C++.md"
-    },
-    {
-      "basename": "OS Resources",
-      "path": "Explore/OS/OS Resources.md"
-    },
-    {
-      "basename": "Basics",
-      "path": "Explore/Go Lang/Basics.md"
     }
   ],
   "omittedPaths": []

@@ -8,3 +8,7 @@
 - [[Find the missing number in an array]] can use set or hash but to save space use summation or xor
 - [[Find the number that appears once, and the other numbers twice]] Just xor or hash or map
 - [[Longest Subarray with given Sum K(Positives)]] in case of +ve and 0 you can do basic sliding window where you remove only if sum is greater but in case of -ve as well use hashmap while traversing where you add the total till index i and in case you don't want a condition to check current sum from 0 to i,  just include 0 value with -1 index while initializing hashmap.
+
+
+# Note
+- Sliding window works if decreasing the window from back pointer leads to one possibility, as done in last question for positive case where on moving the back pointer leads to only decrease in total.

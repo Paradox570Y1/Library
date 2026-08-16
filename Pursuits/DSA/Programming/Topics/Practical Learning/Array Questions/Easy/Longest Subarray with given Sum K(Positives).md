@@ -93,7 +93,30 @@ public class tUf {
 }
 ```
 
+OR
 
+```java
+class Solution {
+    public int longestSubarray(int[] arr, int target) {
+        // code here
+        int maxLen = 0;
+        int total = 0;
+        for (int i = 0; i < arr.length; i++) {
+            total += arr[i];
+            int subTotal = total;
+            for (int j = 0; j <= i; j++) {
+                int subLen = i-j+1;
+                if (subTotal == target && subLen > maxLen) {
+                    maxLen = subLen;
+                    break;
+                }
+                subTotal -= arr[j];
+            }
+        }
+        return maxLen;
+    }
+}
+```
 ## Optimal approach(for +ve,-ve and 0)
 
 #### **Prefix Sum + HashMap Technique**
@@ -197,6 +220,27 @@ class Solution{
 
 **Space Complexity:** O(N) as we are using a map data structure.
 
+
+OR
+
+```java
+class Solution {
+    public int longestSubarray(int[] arr, int target) {
+        // code here
+        HashMap<Integer,Integer> mp = new HashMap<>();
+        mp.put(0,-1);
+        int total = 0;
+        int res = 0;
+        for(int i = 0; i < arr.length; i++){
+            total += arr[i];
+            int subLen = i - mp.getOrDefault(total - target, i);
+            res = Math.max(subLen, res);
+            mp.putIfAbsent(total, i);
+        }
+        return res;
+    }
+}
+```
 
 ## Approach(for +ve and 0)
 
