@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md",
-                "mode": "source",
+                "file": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Easy"
+              "title": "Majority Element greater than n by 2 times"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "76b97e6610280919",
@@ -215,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md",
+                "file": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,9 +306,10 @@
   },
   "active": "ad74866f354fd0e5",
   "lastOpenFiles": [
+    "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md",
+    "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Sort an array of 0's 1's and 2's.md",
     "Pursuits/DSA/Programming/Topics/Array Questions.md",
     "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md",
-    "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md",
     "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/2SumProblem.md",
     "Pursuits/DSA/Programming/Topics/Practical Learning.md",
     "Pursuits/DSA/Programming.md",
@@ -334,7 +336,6 @@
     "Pursuits/Trading/Basics/Trading styles.md",
     "Pursuits/Trading/Basics/Intraday vs Delivery Equity.md",
     "Pursuits/Trading/Basics/Stock Trade Cost Breakdown.md",
-    "Pursuits/Trading/Basics/Security.md",
     "Pursuits/Trading/Basics/Broker",
     "Pursuits/Automation Engine/Pre Discovery",
     "Pursuits/Automation Engine",

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Easy",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+      "basename": "Majority Element greater than n by 2 times",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md"
+    },
+    {
+      "basename": "Medium",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
+    },
+    {
+      "basename": "Sort an array of 0's 1's and 2's",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Sort an array of 0's 1's and 2's.md"
     },
     {
       "basename": "Array Questions",
       "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
     },
     {
-      "basename": "Medium",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
     },
     {
       "basename": "2SumProblem",
@@ -191,14 +199,6 @@
     {
       "basename": "OOPS Question",
       "path": "Explore/DSA/OOPS Question.md"
-    },
-    {
-      "basename": "Divide Two Integers",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Bit Manipulation/Divide Two Integers.md"
-    },
-    {
-      "basename": "Bit Manipulation",
-      "path": "Explore/DSA/Programming/Topics/Practical Learning/Bit Manipulation/Bit Manipulation.md"
     }
   ],
   "omittedPaths": []

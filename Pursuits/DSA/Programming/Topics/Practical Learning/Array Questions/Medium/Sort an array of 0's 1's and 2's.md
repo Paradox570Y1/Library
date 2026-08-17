@@ -170,3 +170,35 @@ class Solution {
     }
 }
 ```
+
+OR
+
+```java
+class Solution {
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    public void sortColors(int[] nums) {
+        int redIdx = 0, whiteIdx = 0, blueIdx = nums.length-1;
+        while(whiteIdx <= blueIdx) {
+            int val = nums[whiteIdx];
+            switch(val) {
+                case 0:
+                    swap(nums, redIdx, whiteIdx);
+                    redIdx++;
+                    whiteIdx++;
+                    break;
+                case 1:
+                    whiteIdx++;
+                    break;
+                case 2:
+                    swap(nums, blueIdx, whiteIdx);
+                    blueIdx--;
+                    break;
+            }
+        }
+    }
+}
+```
