@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "76b97e6610280919",

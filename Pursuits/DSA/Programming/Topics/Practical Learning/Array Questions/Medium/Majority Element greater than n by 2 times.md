@@ -78,6 +78,22 @@ public:
 };
 ```
 
+OR
+
+```java
+class Solution {
+    public int majorityElement(int[] nums) {
+        Map<Integer, Integer> mp = new HashMap<>();
+        for (int num: nums) {
+            mp.merge(num, 1, Integer::sum);
+        }
+        for (Map.Entry<Integer, Integer> e: mp.entrySet()) {
+            if (e.getValue() > nums.length/2) return e.getKey();
+        }
+        return -1;
+    }
+}
+```
 
 # Moore's Voting Algorithm
 [Link](obsidian://open?vault=Lessons&file=DSA%2FProgramming%2FTopics%2FArray%20Questions%2FAlgo%2FMoore's%20Voting%20Algorithm)
