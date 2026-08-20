@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Majority Element greater than n by 2 times",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md"
+      "basename": "Max sum in sub-arrays with min values",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Max sum in sub-arrays with min values.md"
     },
     {
       "basename": "Medium",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
     },
     {
-      "basename": "Sort an array of 0's 1's and 2's",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Sort an array of 0's 1's and 2's.md"
-    },
-    {
       "basename": "Array Questions",
       "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
-    },
-    {
-      "basename": "Easy",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
-    },
-    {
-      "basename": "2SumProblem",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/2SumProblem.md"
     },
     {
       "basename": "Practical Learning",
@@ -31,6 +19,26 @@
     {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Maximum subarray sum",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Maximum subarray sum.md"
+    },
+    {
+      "basename": "Majority Element greater than n by 2 times",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Majority Element greater than n by 2 times.md"
+    },
+    {
+      "basename": "Sort an array of 0's 1's and 2's",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Sort an array of 0's 1's and 2's.md"
+    },
+    {
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+    },
+    {
+      "basename": "2SumProblem",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/2SumProblem.md"
     },
     {
       "basename": "AE-1",
@@ -191,14 +199,6 @@
     {
       "basename": "Time Complexity",
       "path": "Explore/DSA/Programming/Topics/Time Complexity.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Explore/DSA/Programming.md"
-    },
-    {
-      "basename": "OOPS Question",
-      "path": "Explore/DSA/OOPS Question.md"
     }
   ],
   "omittedPaths": []

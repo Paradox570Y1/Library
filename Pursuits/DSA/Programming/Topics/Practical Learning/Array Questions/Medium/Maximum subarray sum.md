@@ -122,6 +122,21 @@ class Solution {
 }
 ```
 
+OR
+
+```java
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int maxSum = nums[0];
+        int sum = 0;
+        for (int num: nums) {
+            sum = Math.max(sum + num, num);
+            maxSum = Math.max(maxSum, sum);
+        }
+        return maxSum;
+    }
+}
+```
 ## Follow Up question
 -  To return the subarray instead of just sum.
 ```java
