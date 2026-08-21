@@ -6,6 +6,9 @@
 - [[Sort a Stack]]
 - [[Reverse a Stack]]
 
+# Recursive approach for different category problem
+- [[Maximum subarray sum]]
+- 
 
 # Subsequence pattern
 

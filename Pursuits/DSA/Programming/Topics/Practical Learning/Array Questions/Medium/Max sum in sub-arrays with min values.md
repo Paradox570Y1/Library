@@ -78,3 +78,5 @@ class Solution {
     }
 };
 ```
+
+This works because as per question we require max sum so extending the subarray size will only lead to selecting even smaller elements so to get highest sum the only possibility is around bigger elements in the array.

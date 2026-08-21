@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Max sum in sub-arrays with min values",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Max sum in sub-arrays with min values.md"
-    },
-    {
       "basename": "Medium",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
+    },
+    {
+      "basename": "121. Best Time to Buy and Sell Stock",
+      "path": "Assets/Images/121. Best Time to Buy and Sell Stock.md"
+    },
+    {
+      "basename": "Max sum in sub-arrays with min values",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Max sum in sub-arrays with min values.md"
     },
     {
       "basename": "Array Questions",
@@ -17,12 +21,24 @@
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
     },
     {
-      "basename": "Programming",
-      "path": "Pursuits/DSA/Programming.md"
+      "basename": "Recursion(Pattern Wise)",
+      "path": "Pursuits/DSA/Programming/Topics/Recursion/Recursion(Pattern Wise).md"
     },
     {
       "basename": "Maximum subarray sum",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Maximum subarray sum.md"
+    },
+    {
+      "basename": "Easy",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
+    },
+    {
+      "basename": "Longest Subarray with given Sum K(Positives)",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Majority Element greater than n by 2 times",
@@ -33,20 +49,12 @@
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Sort an array of 0's 1's and 2's.md"
     },
     {
-      "basename": "Easy",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy.md"
-    },
-    {
       "basename": "2SumProblem",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/2SumProblem.md"
     },
     {
       "basename": "AE-1",
       "path": "Pursuits/Automation Engine/Pre Discovery/Diagrams/AE-1.md"
-    },
-    {
-      "basename": "Longest Subarray with given Sum K(Positives)",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
     },
     {
       "basename": "Effective Instruction",
@@ -191,14 +199,6 @@
     {
       "basename": "Roadmap",
       "path": "Pursuits/System Design/Roadmap.md"
-    },
-    {
-      "basename": "Phase 0",
-      "path": "Pursuits/System Design/Phases/Phase 0.md"
-    },
-    {
-      "basename": "Time Complexity",
-      "path": "Explore/DSA/Programming/Topics/Time Complexity.md"
     }
   ],
   "omittedPaths": []
