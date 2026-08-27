@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Next Permutation",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Next Permutation.md"
+    },
+    {
       "basename": "Medium",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
-    },
-    {
-      "basename": "121. Best Time to Buy and Sell Stock",
-      "path": "Assets/Images/121. Best Time to Buy and Sell Stock.md"
-    },
-    {
-      "basename": "Max sum in sub-arrays with min values",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Max sum in sub-arrays with min values.md"
     },
     {
       "basename": "Array Questions",
@@ -19,6 +15,22 @@
     {
       "basename": "Practical Learning",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Rearrange the array in alternating positive and negative items",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Rearrange the array in alternating positive and negative items.md"
+    },
+    {
+      "basename": "121. Best Time to Buy and Sell Stock",
+      "path": "Assets/Images/121. Best Time to Buy and Sell Stock.md"
+    },
+    {
+      "basename": "Max sum in sub-arrays with min values",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Max sum in sub-arrays with min values.md"
     },
     {
       "basename": "Recursion(Pattern Wise)",
@@ -35,10 +47,6 @@
     {
       "basename": "Longest Subarray with given Sum K(Positives)",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Easy/Longest Subarray with given Sum K(Positives).md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Majority Element greater than n by 2 times",
@@ -191,14 +199,6 @@
     {
       "basename": "DSL",
       "path": "Pursuits/System Design/Phases/Phase 1/utils/DSL.md"
-    },
-    {
-      "basename": "Pasted image 20260705123831",
-      "path": "Assets/Images/Pasted image 20260705123831.png"
-    },
-    {
-      "basename": "Roadmap",
-      "path": "Pursuits/System Design/Roadmap.md"
     }
   ],
   "omittedPaths": []

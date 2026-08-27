@@ -238,3 +238,57 @@ public:
     }
 };
 ```
+
+OR
+
+
+# Best way
+
+```java
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int pivotIdx = getPermutationPivot(nums);
+        if (pivotIdx != -1) {
+            int nextGreaterIdx = getNextGreater(nums, pivotIdx);
+            swap(nums, pivotIdx, nextGreaterIdx);
+        }
+        reverse(nums, pivotIdx+1);
+    }
+
+    private int getPermutationPivot(int[] nums) {  // O(k)
+        for (int i = nums.length-2; i >= 0; i--) {
+            if (nums[i] < nums[i+1]) return i;
+        }
+        return -1;
+    }
+
+    private int getNextGreater(int[] nums, int idx) { // O(log k)
+        int low = idx+1;
+        int high = nums.length-1;
+        int target = nums[idx];
+        while (low <= high) {
+            int mid = low + (high-low)/2;
+            if (nums[mid] <= target) {
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+        return high;
+    }
+    private void swap(int[] nums, int i, int j) { // O(1)
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    
+    private void reverse(int[] nums, int st) { // O(k/2)
+        int end = nums.length-1;
+        while (st < end) {
+            swap(nums, st, end);
+            st++;
+            end--;
+        }
+    }
+}
+```
