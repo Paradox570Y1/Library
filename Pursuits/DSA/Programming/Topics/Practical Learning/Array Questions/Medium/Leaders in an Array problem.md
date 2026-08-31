@@ -1,5 +1,5 @@
 ### Array Leaders
-
+[Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 Difficulty: **Easy**Accuracy: **29.94%**Submissions: **682K+**Points: **2**
 
 Given an array **arr** of **n** positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.

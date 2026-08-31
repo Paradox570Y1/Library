@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Next Permutation",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Next Permutation.md"
-    },
-    {
-      "basename": "Medium",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
-    },
-    {
-      "basename": "Array Questions",
-      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+      "basename": "Graphs",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Graphs/Graphs.md"
     },
     {
       "basename": "Practical Learning",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
     },
     {
+      "basename": "Array Questions",
+      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+    },
+    {
+      "basename": "Medium",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
+    },
+    {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Longest Consecutive Sequence",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Longest Consecutive Sequence.md"
+    },
+    {
+      "basename": "Leaders in an Array problem",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Leaders in an Array problem.md"
+    },
+    {
+      "basename": "Next Permutation",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Next Permutation.md"
     },
     {
       "basename": "Rearrange the array in alternating positive and negative items",
@@ -187,18 +199,6 @@
     {
       "basename": "Computer Networks",
       "path": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md"
-    },
-    {
-      "basename": "cable",
-      "path": "Pursuits/System Design/Phases/Phase 1/utils/cable.md"
-    },
-    {
-      "basename": "Phase 1",
-      "path": "Pursuits/System Design/Phases/Phase 1.md"
-    },
-    {
-      "basename": "DSL",
-      "path": "Pursuits/System Design/Phases/Phase 1/utils/DSL.md"
     }
   ],
   "omittedPaths": []

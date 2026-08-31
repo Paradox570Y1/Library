@@ -87,3 +87,4 @@
 - [[3607. Power Grid Maintenance]]
 - [[684. Redundant Connection]]
 - [[Number Of Islands 2]]
+- [[Longest Consecutive Sequence]]
