@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Graphs",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Graphs/Graphs.md"
-    },
-    {
-      "basename": "Practical Learning",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
-    },
-    {
-      "basename": "Array Questions",
-      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+      "basename": "Set Matrix Zeroes",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Set Matrix Zeroes.md"
     },
     {
       "basename": "Medium",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium.md"
     },
     {
+      "basename": "Array Questions",
+      "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
+    },
+    {
+      "basename": "Practical Learning",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
+    },
+    {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Graphs",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Graphs/Graphs.md"
     },
     {
       "basename": "Longest Consecutive Sequence",
@@ -195,10 +199,6 @@
     {
       "basename": "computer-networking-a-top-down-approach-9",
       "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
-    },
-    {
-      "basename": "Computer Networks",
-      "path": "Pursuits/System Design/Phases/Phase 1/Computer Networks.md"
     }
   ],
   "omittedPaths": []

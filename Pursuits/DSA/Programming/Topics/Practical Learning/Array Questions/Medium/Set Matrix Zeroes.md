@@ -296,3 +296,39 @@ var setZeroes = function(matrix) {
     }
 };
 ```
+
+Better code quality
+
+```java
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        boolean[] posX = new boolean[matrix.length];
+        boolean[] posY = new boolean[matrix[0].length];
+        buildPosSet(matrix, posX, posY);
+        markPosInMatrix(matrix, posX, posY);
+    }
+
+    private void buildPosSet(int[][] matrix, boolean[] posX, boolean[] posY) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] == 0) {
+                    posX[i] = true;
+                    posY[j] = true;
+                }
+            }
+        }
+    }
+    
+    private void markPosInMatrix(int[][] matrix, boolean[] posX, boolean[] posY) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (posX[i] || posY[j]) {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+    }
+}
+```
+
+
