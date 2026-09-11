@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Set Matrix Zeroes",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Set Matrix Zeroes.md"
+      "basename": "Spiral Matrix",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Spiral Matrix.md"
     },
     {
       "basename": "Medium",
@@ -19,6 +19,14 @@
     {
       "basename": "Programming",
       "path": "Pursuits/DSA/Programming.md"
+    },
+    {
+      "basename": "Rotate Matrix by 90 degrees",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Rotate Matrix by 90 degrees.md"
+    },
+    {
+      "basename": "Set Matrix Zeroes",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Set Matrix Zeroes.md"
     },
     {
       "basename": "Graphs",
@@ -191,14 +199,6 @@
     {
       "basename": "Central Securities Depositories",
       "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
-    },
-    {
-      "basename": "Target",
-      "path": "Archive/UCA/CC/Components/Target.md"
-    },
-    {
-      "basename": "computer-networking-a-top-down-approach-9",
-      "path": "Assets/Books/computer-networking-a-top-down-approach-9.pdf"
     }
   ],
   "omittedPaths": []

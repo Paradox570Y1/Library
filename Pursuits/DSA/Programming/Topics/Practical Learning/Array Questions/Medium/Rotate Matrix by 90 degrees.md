@@ -131,3 +131,42 @@ class Solution {
     }
 }
 ```
+
+
+OR
+
+```java
+class Solution {
+    public void rotate(int[][] matrix) {
+        reverse(matrix);
+        transpose(matrix);
+    }
+
+    private void reverse(int[][] matrix) {
+        for (int[] row : matrix) {
+            reverseRow(row);
+        }
+    }
+
+    private void reverseRow(int[] row) {
+        int i = 0, j = row.length - 1;
+        while (i < j) {
+            int temp = row[i];
+            row[i] = row[j];
+            row[j] = temp;
+            i++;j--;
+        }
+    }
+
+    private void transpose(int[][] matrix) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix.length - i - 1; j++) {
+                int temp = matrix[i][j];
+                int i2 = matrix.length-1-j, j2 = matrix.length-1-i;
+                matrix[i][j] = matrix[i2][j2];
+                matrix[i2][j2] = temp;
+            }
+        }
+    }
+}
+```

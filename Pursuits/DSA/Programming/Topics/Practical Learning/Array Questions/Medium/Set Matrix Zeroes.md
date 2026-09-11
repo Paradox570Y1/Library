@@ -332,3 +332,103 @@ class Solution {
 ```
 
 
+OR
+
+```java
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        Matrix mat = new Matrix(matrix);
+        buildPosSet(mat);
+        markPosInMatrix(mat);
+    }
+
+    private void buildPosSet(Matrix matrix) {
+        for (int i = 0; i < matrix.rowLen; i++) {
+            for (int j = 0; j < matrix.colLen; j++) {
+                if (matrix.isZero(i, j)) {
+                    matrix.setTrace(i, j);
+                }
+            }
+        }
+    }
+    
+    private void markPosInMatrix(Matrix matrix) {
+        for (int i = matrix.rowLen-1; i >= 1; i--) {
+            for (int j = matrix.colLen-1; j >= 1; j--) {
+                matrix.setValidZero(i, j);
+            }
+        }
+
+        if (matrix.isRowZeroSet) matrix.setRowZero();
+        if (matrix.isColZeroSet) matrix.setColZero();
+    }
+}
+
+class Matrix {
+    private int[][] matrix;
+    public int rowLen;
+    public int colLen;
+    public boolean isRowZeroSet, isColZeroSet;
+
+    Matrix(int[][] matrix) {
+        this.matrix = matrix;
+        this.rowLen = matrix.length;
+        this.colLen = matrix[0].length;
+    }
+
+    private void setRowTrace(int idx) {
+        matrix[idx][0] = 0;
+    }
+
+    private void setColTrace(int idx) {
+        matrix[0][idx] = 0;
+    }
+
+    private void setValidFlag(int row, int col) {
+        if (row == 0) {
+            isRowZeroSet = true;
+        }
+        if (col == 0) {
+            isColZeroSet = true;
+        }
+    }
+
+    // mark cordinate to set row and column to zero
+    public void setTrace(int row, int col) {
+        setRowTrace(row);
+        setColTrace(col);
+        setValidFlag(row, col);
+    }
+    
+    private boolean isColSet (int idx) {
+        return matrix[0][idx] == 0;
+    }
+
+    private boolean isRowSet (int idx) {
+        return matrix[idx][0] == 0;
+    }
+    
+    public void setValidZero(int row, int col) {
+        if (matrix[row][col] == 0) return;
+        if (isRowSet(row) || isColSet(col)) {
+            matrix[row][col] = 0;
+        }
+    }
+
+    public void setRowZero() {
+        for (int i = 0; i < colLen; i++) {
+            matrix[0][i] = 0;
+        }
+    }
+    
+    public void setColZero() {
+        for (int i = 0; i < rowLen; i++) {
+            matrix[i][0] = 0;
+        }
+    }
+
+    public boolean isZero(int row, int col) {
+        return matrix[row][col] == 0;
+    }
+}
+```
