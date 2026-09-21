@@ -6,7 +6,7 @@ Given an `m x n` `matrix`, return _all elements of the_ `matrix` _in spiral
 ![](https://assets.leetcode.com/uploads/2020/11/13/spiral1.jpg)
 
 **Input:** matrix = `[[1,2,3],[4,5,6],[7,8,9]]`
-**Output:** [1,2,3,6,9,8,7,4,5]
+**Output:** `[1,2,3,6,9,8,7,4,5]`
 
 **Example 2:**
 
@@ -132,6 +132,51 @@ class Solution {
             }
         }
         return res;
+    }
+}
+```
+
+
+OR
+
+// But this changes the elements within the matrix, original data gets lost
+```java
+class Solution {
+    private int mark = 101;
+    private int[][] dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    public List<Integer> spiralOrder(int[][] matrix) {
+        int x = 0, y = 0, dir = 0;
+        List<Integer> res = new ArrayList<>();
+        while(!isEndReached(matrix, x, y)) {
+            res.add(matrix[x][y]);
+            markVisited(matrix, x, y);
+            if (!nextCellValid(matrix, x, y, dir)) {
+                dir = (dir+1) % 4; //change direction
+            }
+            x += dirs[dir][0];
+            y += dirs[dir][1];
+        }
+        res.add(matrix[x][y]);
+        return res;
+    }
+
+    private boolean isEndReached(int[][] matrix, int x, int y) {
+        if (x > 0 && matrix[x-1][y] != mark) return false;
+        if (y > 0 && matrix[x][y-1] != mark) return false;
+        if (x < matrix.length-1 && matrix[x+1][y] != mark) return false;
+        if (y < matrix[0].length-1 && matrix[x][y+1] != mark) return false;
+        return true;
+    }
+
+    private void markVisited(int[][] matrix, int x , int y) {
+        matrix[x][y] = mark;
+    }
+
+    private boolean nextCellValid(int[][] matrix, int x, int y, int dir) {
+        x += dirs[dir][0];
+        y += dirs[dir][1];
+        if (x == matrix.length || y == matrix[0].length || x < 0 || y < 0 || matrix[x][y] == mark) return false;
+        return true;
     }
 }
 ```
