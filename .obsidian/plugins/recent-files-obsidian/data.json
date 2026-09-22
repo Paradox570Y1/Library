@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Floor in a Sorted Array",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Binary Search/Floor in a Sorted Array.md"
+    },
+    {
+      "basename": "Binary Search",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Binary Search/Binary Search.md"
+    },
+    {
+      "basename": "Upper bound",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Binary Search/Upper bound.md"
+    },
+    {
+      "basename": "Lower Bound",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Binary Search/Lower Bound.md"
+    },
+    {
+      "basename": "BS Theory",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Binary Search/BS Theory.md"
+    },
+    {
+      "basename": "Practical Learning",
+      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Pursuits/DSA/Programming.md"
+    },
+    {
       "basename": "Subarray sum equals K",
       "path": "Pursuits/DSA/Programming/Topics/Practical Learning/Array Questions/Medium/Subarray sum equals K.md"
     },
@@ -31,14 +59,6 @@
     {
       "basename": "Array Questions",
       "path": "Pursuits/DSA/Programming/Topics/Array Questions.md"
-    },
-    {
-      "basename": "Practical Learning",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Pursuits/DSA/Programming.md"
     },
     {
       "basename": "Spiral Matrix",
@@ -179,26 +199,6 @@
     {
       "basename": "Approx Trade charges",
       "path": "Pursuits/Trading/Basics/Broker/Approx Trade charges.md"
-    },
-    {
-      "basename": "1752. Check if Array Is Sorted and Rotated",
-      "path": "Pursuits/DSA/Programming/Topics/Practical Learning/1752. Check if Array Is Sorted and Rotated.md"
-    },
-    {
-      "basename": "Auto Square Off charges",
-      "path": "Pursuits/Trading/Basics/Broker/Auto Square Off charges.md"
-    },
-    {
-      "basename": "DP Charges",
-      "path": "Pursuits/Trading/Basics/Broker/DP Charges.md"
-    },
-    {
-      "basename": "AMC Charges",
-      "path": "Pursuits/Trading/Basics/Broker/AMC Charges.md"
-    },
-    {
-      "basename": "Central Securities Depositories",
-      "path": "Pursuits/Trading/Basics/Central Securities Depositories.md"
     }
   ],
   "omittedPaths": []
